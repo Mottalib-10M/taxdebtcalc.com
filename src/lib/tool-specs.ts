@@ -61,7 +61,7 @@ export const SPECS: Record<string, (arg?: Record<string, number | string>) => To
   /* Home: what the balance is today and on the payoff day, penalty by penalty. */
   debt: (arg) => ({
     inputs: [
-      MONEY('tax', 'Unpaid tax (before penalties and interest)', Number(arg?.tax ?? 12000), 'Tax on the return minus withholding and payments made by the due date'),
+      MONEY('tax', 'Unpaid tax (before penalties and interest)', Number(arg?.tax ?? 12000), 'Not paid by the due date'),
       TAX_YEAR(Number(arg?.ty ?? 2025)),
       { ...FILED, def: String(arg?.fs ?? 'ontime') } as Input,
       PAYOFF(Number(arg?.pm ?? 0)),
