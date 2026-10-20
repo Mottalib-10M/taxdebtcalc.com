@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('contact', lang);
+const description = 'Write to the publisher of Tax Debt Calc about a penalty rule, an interest rate, a fee, a county standard or a source. E-mail only, no case review, no firm, nothing sold.';
+---
+<PageLayout title="Contact Tax Debt Calc: corrections to a rule, a rate or a source" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Contact</h1>
+    <p>By e-mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. No form, no appointment, no phone line, no newsletter: we sell no resolution service and need no name or address.</p>
+    <h2>Messages that help</h2>
+    <ul>
+      <li>A penalty rule, rate, fee or standard that differs from the IRS page, form or code section we cite: name the page and the line of the official text.</li>
+      <li>A new quarterly interest rate, a new set of Collection Financial Standards or a fee change that we have not added yet.</li>
+      <li>A case the calculator handles badly, with the figures you typed.</li>
+      <li>Embedding the calculator on a library guide, a legal aid or credit counseling page, or a course page: the code is on the <a href={route('widget', lang)}>embed page</a>.</li>
+    </ul>
+    <h2>What we cannot do</h2>
+    <p>We do not review tax accounts, notices or financial statements, we do not contact the IRS for anyone, and we give no tax advice. For your own case: the number on your notice, your online IRS account, the Taxpayer Advocate Service, a Low Income Taxpayer Clinic, or an enrolled agent, CPA or tax attorney you choose yourself.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+  </div>
+</PageLayout>

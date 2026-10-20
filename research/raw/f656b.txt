@@ -1,0 +1,1636 @@
+Form 656 Booklet  
+Offer in Compromise
+CONTENTS
+■   What you need to know ................................................................................   1
+■   Paying for your offer ....................................................................................   3
+■   How to apply ................................................................................................   4
+■   Completing the application package ............................................................   5
+■   Important information ...................................................................................   6
+■   Removable Forms - Form 433-A (OIC), Collection Information Statement 
+for Wage Earners and Self-Employed Individuals; Form 433-B (OIC),  
+Collection Information Statement for Businesses; Form 656, Offer in  
+Compromise ................................................................................................   7
+■   Application Checklist .....................................................................................29
+Do I Qualify for an Offer in Compromise?
+To see if you qualify for an Offer in Compromise before filling out the paperwork, you may use the 
+Individual Online Account (IOLA) or the Offer in Compromise (OIC) Pre-Qualifier tool to check your 
+eligibility and compute a preliminary offer amount. These tools help identify the asset, income, and 
+expense information that is needed and will provide instant feedback as to your eligibility based on the 
+information you enter. Please note the eligibility determination provided by these tools does not 
+guarantee that your Offer in Compromise will be accepted.
+Sign in or create your Individual Online Account at IRS.gov/OLA or access the OIC Pre-Qualifier tool at 
+IRS.gov/OICtool. You may also scan the “IOLA” or “OIC Pre-Qualifier” QR code on the right with your 
+smart device to access either your Individual Online Account or the pre-qualifier tool.
+IOLA
+OIC  
+Pre-Qualifier
+Taxpayer resources
+Find step-by-step information on how to complete an Offer in Compromise by visiting  
+"Offer in Compromise Form 656 Booklet” or visit IRS.gov/OIC for more information about the Offer in 
+Compromise process. See Offer in Compromise FAQs for answers to frequently asked questions and 
+what to expect when you submit an offer. Find tax forms and publications by visiting IRS.gov/forms or 
+calling 800-TAX-FORM (800-829-3676). If you have additional questions regarding qualifications for an 
+Offer in Compromise, call our toll-free number at 800-829-1040.
+All taxpayers have a set of fundamental rights they should be aware of when interacting with the IRS. 
+For more information on your rights as a taxpayer, go to IRS.gov/Taxpayer-Bill-of-Rights.
+The Taxpayer Advocate Service (TAS) is an independent organization within the Internal Revenue 
+Service (IRS) that helps taxpayers and protects taxpayers' rights. TAS can offer you help if your tax 
+problem is causing a financial difficulty, you’ve tried and been unable to resolve your issue with the 
+IRS, or you believe an IRS system, process, or procedure just isn't working as it should. If you 
+qualify for TAS assistance, which is always free, TAS will do everything possible to help you. Visit 
+www.taxpayeradvocate.irs.gov or call 877-777-4778.
+Low Income Taxpayer Clinics (LITCs) are independent from the IRS and TAS. LITCs represent 
+individuals whose income is below a certain level and who need to resolve tax problems with the 
+IRS. LITCs can represent taxpayers in audits, appeals, and tax collection disputes before the IRS 
+and in court. In addition, LITCs can provide information about taxpayer rights and responsibilities 
+in different languages for individuals who speak English as a second language. Services are 
+offered for free or a small fee. For more information or to find an LITC near you, see the LITC 
+page at www.taxpayeradvocate.irs.gov/litc or IRS Publication 4134, Low Income Taxpayer Clinic 
+List. This publication is also available online at IRS.gov/forms-pubs or by calling the IRS toll-free at 
+800-TAX-FORM (800-829-3676).
+
+WHAT YOU NEED TO KNOW
+What is an Offer? An Offer in Compromise (offer) is an agreement between you (the taxpayer) and  
+the IRS that settles a tax debt for less than the full amount owed. The offer  
+program provides eligible taxpayers an opportunity to resolve their tax debt. The 
+ultimate goal is a compromise that suits the best interest of both the taxpayer and 
+the IRS. Generally, you must make an appropriate offer based on what the IRS 
+considers your ability to pay.
+Submitting an application does not ensure that the IRS will accept your offer. 
+It begins a process of evaluation and verification by the IRS, taking into 
+consideration any special circumstances that may affect your ability to pay.
+Are You Eligible? Before your offer can be considered, you must (1) file all tax returns you are legally 
+required to file, (2) have received a bill for at least one tax debt included on your 
+offer, (3) make all required estimated tax payments for the current year, and (4)  if 
+you are a business owner with employees, make all required federal tax deposits 
+for the current quarter and the two preceding quarters.
+Note: If it is determined you have not filed all tax returns you are legally 
+required to file, the IRS will apply any initial payment you sent with your offer 
+to your tax debt and return only your offer and application fee to you. You 
+cannot appeal this decision.
+Bankruptcy, Open Audit, Innocent 
+Spouse Claim, or Deactivated ITIN
+If you or your business is currently in an open bankruptcy proceeding, you are not 
+eligible to apply for an offer. Any resolution of your outstanding tax debts generally 
+must take place within the context of your bankruptcy proceeding.
+Resolve any open audit or outstanding innocent spouse claim issues before 
+submitting an offer.
+We will not consider an offer with a deactivated ITIN. If you have a deactivated 
+ITIN, please complete the Form W-7, Application for IRS Individual Taxpayer 
+Identification Number, and have it reactivated. Once the reactivation is completed, 
+you may submit an Offer in Compromise. 
+Can You Pay in Full? Generally, the IRS will not accept an offer if you can pay your tax debt in full 
+through an installment agreement and/or equity in assets. If paying the liability in 
+full would create an economic hardship or if you have an exceptional circumstance 
+where full payment may be considered unjust, you may be eligible for an offer 
+under the effective tax administration guidelines.
+Note: Adjustments or exclusions, which may be considered during the offer 
+investigation, such as allowance of $1,000 to a bank balance or $3,450 against the 
+value of a car, are only applied if you are an individual and after we determine you 
+cannot full pay the liabilities from equity in assets, an installment agreement, or a 
+combination of both.
+Your Tax Refunds The IRS may keep any tax refund, including interest, for a tax return assessed 
+before the date the IRS accepts your offer by offsetting it against your tax debt, as 
+applicable. For example, you file your 2024 Form 1040 on April 15, 2025; the IRS 
+assesses the tax on May 26, 2025, offsets the overpayment; and the IRS accepts 
+your offer on July 1, 2025. Because the IRS offset the overpayment prior to the 
+acceptance of the offer, the overpayment will be used to reduce your outstanding 
+tax liability. Since your tax refund may be offset to the tax liability while the offer is 
+pending, assistance from Taxpayer Advocate or the IRS at 800-829-1040 could be 
+available for taxpayers (other than businesses) facing economic hardship. The 
+refund is not considered as a payment toward your offer. In addition, any 
+refund resulting from a claim on an amended return for a tax period that has an 
+ending date prior to the date your offer is accepted will be offset to the tax liability.
+Doubt as to Liability If you have a legitimate doubt that you owe part or all of the tax debt, complete and 
+submit a Form 656-L, Offer in Compromise (Doubt as to Liability). To request a 
+Form 656-L, visit IRS.gov or a local IRS office or call toll-free 800-TAX-FORM 
+(800-829-3676).
+1
+Note: Do not submit both an offer under Doubt as to Liability and an offer 
+under Doubt as to Collectibility or Effective Tax Administration at the same 
+time. You must resolve any doubt you owe part or all of the tax debt before 
+submitting an offer based on your ability to pay.
+Notice of Federal Tax Lien A lien is a legal claim against all your current and future property. When you don’t 
+pay your first bill for taxes due, a lien is created by law and attaches to your 
+property. A Notice of Federal Tax Lien (NFTL) provides public notice of the tax 
+debt to creditors. The IRS files the NFTL to establish priority of the IRS claim 
+versus the claims of certain other creditors. The IRS may file a NFTL at any time. 
+You may be entitled to file an appeal under the Collection Appeals Program (CAP) 
+before this occurs or request a Collection Due Process hearing after this occurs. 
+The IRS may be entitled to any proceeds from the sale of property subject to the 
+lien(s). If you sell the property prior to the release of the lien, excess property sale 
+proceeds may be applied to your tax liability, even if your offer has been accepted.
+Trust Fund Taxes If your business owes liabilities that include trust fund taxes, the IRS may hold 
+responsible parties liable for the trust fund portion of the tax pursuant to applicable 
+law. Trust fund taxes are the monies withheld from an employee's wages, such as 
+income tax, Social Security, and Medicare taxes. If the IRS accepts an offer from 
+an employer that pays for only a part of the trust fund tax liability, the remainder of 
+the trust fund taxes may be collected from the responsible parties. Your business 
+is not eligible for consideration of an offer unless the trust fund portion of the tax is 
+paid or the IRS has made the Trust Fund Recovery Penalty determination(s) on all 
+potentially responsible parties. However, if you are submitting the offer as a victim 
+of payroll service provider fraud or failure, the Trust Fund Recovery Penalty 
+assessment discussed above is not required prior to submitting the offer. 
+Other Important Facts You have the right to appeal if the IRS rejects your offer.
+You do not have the right to appeal if the IRS returns your offer.
+Penalties and interest will continue to accrue while your offer is considered by the 
+IRS. 
+After you submit your offer, you must continue to timely file and pay all required tax 
+returns, estimated tax payments, and federal tax payments for yourself and any 
+business in which you have an interest. Failure to meet your filing and payment 
+obligations during consideration of your offer may result in the IRS returning 
+your offer. 
+If the IRS accepts your offer, you must continue to stay current with all tax filing 
+and payment obligations through the fifth year after your offer is accepted. Failure 
+to meet your filing and payment obligations during this period may result in the IRS 
+defaulting your offer. 
+Note: If you have filed your tax returns but you have not received a bill for at least 
+one tax debt included on your offer, your offer and application fee may be returned 
+and any initial payment sent with your offer will be applied to your tax debt. To 
+prevent the return of your offer, wait until you have received a bill for at least 
+one tax debt and then include a copy of any tax return filed within 10 weeks 
+of this offer submission.
+We can't process your offer if the IRS referred your case involving all tax periods to 
+the Department of Justice. In addition, we cannot compromise any liability arising 
+from court ordered restitution (restitution-based assessment) or a federal tax 
+liability that has been reduced to judgment. Furthermore, we will not compromise 
+any IRC 965 tax liability for which an election was made under IRC 965(i). You 
+cannot appeal this decision.
+The law requires the IRS to make certain information from accepted offers  
+available for public inspection and review. Find instructions to request a public 
+inspection file at IRS.gov key words "public inspection file."
+2
+If you currently have an approved installment agreement, you will not be required 
+to make your installment agreement payments while we consider your offer. If your 
+offer is not accepted and you have not incurred any additional tax debt, the IRS will 
+reinstate your installment agreement.
+The IRS may levy your assets up to the time the IRS official signs and 
+acknowledges your offer as pending. In addition, the IRS may keep any proceeds 
+received from the levy. If your assets are levied after your offer is submitted and 
+under consideration, immediately contact the IRS at the phone number listed on 
+the levy. 
+PAYING FOR YOUR OFFER
+Application Fee Offers require a $205 application fee. 
+Exception: If you are an individual and meet the Low-Income Certification 
+guidelines, there is no requirement to submit any offer payments or the 
+application fee upon submission or during the consideration of your offer. 
+You are considered an individual if you are seeking compromise of a liability for 
+which you are personally responsible, including any liability you incurred as a sole 
+proprietor. 
+Payment Options You must select a payment option and include the initial payment with your offer. 
+The amount of the initial payment and subsequent payments will depend on the 
+total amount of your offer and which of the following payment options you choose:
+Lump Sum: This option requires 20% of the total offer amount to be paid  with the 
+offer and the remaining balance paid in 5 or fewer payments within 5 or  fewer 
+months of the date your offer is accepted. Contact the IRS or your tax advisor 
+before taking this action.
+Periodic Payment: This option requires you to make the first payment with the 
+offer and the remaining balance paid in monthly payments within 6 to 24 months, 
+in accordance with your proposed offer terms.
+Note: Under the periodic payment option, you must continue to make 
+monthly payments while the IRS is evaluating your offer. If you fail to make 
+these payments at any time prior to receiving a final decision letter, the IRS may 
+return your offer. You cannot appeal this decision. Total payments must equal the 
+total offer amount. Generally, payments made on an offer will not be returned.
+The initial payment and monthly payments are not required if you meet the Low-
+Income Certification guidelines. If you qualified under the Low-Income Certification 
+and are not required to submit payments while the offer is under consideration, 
+your first payment will be due 30 calendar days after acceptance of the offer, 
+unless another date is agreed to in an amended offer.
+Note: You may not pay your offer amount with an expected or current tax 
+refund, money already paid, funds attached by any collection action, or 
+anticipated benefits from a capital or net operating loss. If you are planning to 
+use your retirement savings from an IRA or 401k  plan, you may have future tax 
+debt as a result. Contact the IRS or your tax advisor before taking this action.
+3
+HOW TO APPLY
+Application Process The application must include:
+•   Form 656, Offer in Compromise
+•   Completed and signed Form 433-A (OIC), Collection Information Statement for 
+Wage Earners and Self-Employed Individuals, if applicable 
+•   Completed and signed Form 433-B (OIC), Collection Information Statement for 
+Businesses, if applicable 
+•   $205 application fee, unless you meet Low-Income Certification Guidelines
+•   Initial offer payment based on the payment option you choose, unless you 
+meet Low-Income Certification Guidelines
+Note: Your offer(s) cannot be considered without the completed and signed 
+Form(s) 656, 433-A (OIC), 433-B (OIC) (if applicable), and supporting 
+documentation.
+If You and Your Spouse Owe  
+Joint and Separate Tax Debts
+If you and your spouse have joint tax debt(s) and you or your spouse are also 
+responsible for separate tax debt(s) (including Trust Fund Recovery Penalty), 
+you will each need to send in a separate Form 656. You will complete one Form 
+656 for yourself listing all your joint and any separate tax debt(s) and your 
+spouse will complete one Form 656 listing all their joint and any separate tax 
+debt(s), for a total of two Forms 656.
+If you and your spouse have a joint tax debt and your spouse does not want to be 
+part of the offer, you may submit a Form 656 to compromise your responsibility for 
+the joint tax debt.
+If you are legally separated and living apart from your spouse or are divorced, you 
+are not eligible to submit a joint offer to compromise joint tax liabilities. You and 
+your spouse/ex-spouse must submit separate offers to compromise each person's 
+responsibility for the joint tax debt.
+Each Form 656 will require the $205 application fee and initial payment 
+unless you are an individual and meet the Low-Income Certification 
+guidelines. 
+If You Owe Individual and  
+Business Tax Debt
+If you have individual and business tax debt that you wish to compromise, you will  
+need to send in two Forms 656. Complete one Form 656 for your individual tax  
+debt(s) and one Form 656 for your business tax debt(s). Each Form 656 will 
+require the $205 application fee and initial payment.
+Note: A business is defined as a corporation, partnership, or any business that is 
+operated as other than a sole-proprietorship. You may not compromise an 
+individual's share of a partnership debt. The partnership must submit its own offer 
+based on the partnership's and partners' ability to pay.
+Apply Online Individuals may use their Individual Online Account to apply for an offer. Using 
+your Individual Online Account will allow you to prepare all necessary forms, 
+calculate the potential amount to offer, make all required payments, and submit 
+your offer electronically. Use the QR Code to the left to sign in or create an 
+account, or go to IRS.gov/OLA.
+4
+COMPLETING THE APPLICATION PACKAGE
+Step 1 – Gather Your Information You will need to gather information such as tax returns, bank statements, income 
+statements (Form W-2, Form 1099, etc.), mortgage and credit account statements, 
+retirement account statements or other documents necessary to demonstrate your 
+financial condition.
+You will need information to determine your household’s monthly gross income 
+and expenses. The household includes all those who contribute to paying 
+expenses such as rent or mortgage, utilities, insurance, groceries, etc. This is 
+necessary for the IRS to accurately evaluate your offer and may involve 
+determining your share of the total household income and expenses.
+In general, the IRS will not consider expenses for tuition for private schools,  
+college expenses, charitable contributions, and other unsecured debt payments as 
+part of the expense calculation.
+After gathering your financial information, we recommended you use one of the 
+pre-qualifier tools to help determine your eligibility and calculate a potential offer 
+amount.
+Step 2 – Fill out Form 433-A   
+(OIC), Collection Information  
+Statement for Wage Earners and  
+Self-Employed Individuals 
+Fill out Form 433-A (OIC) if you are an individual wage earner, operate or operated 
+as a sole proprietor, or are authorized to submit an offer on behalf of the estate of 
+a deceased individual. This will assist in the calculation of an appropriate offer 
+amount based on your assets, income, expenses, and future earning potential.
+Step 3 – Fill out Form 433-B (OIC),  
+Collection Information Statement   
+for Businesses
+Fill out Form 433-B (OIC) if the business is a Corporation, Partnership, or LLC. 
+This will assist in the calculation of an appropriate offer  amount based on the 
+business assets, income, expenses, and future earning  potential. If the business 
+has assets used to produce income (for example, a tow truck used in the business 
+for towing vehicles), the IRS may allow the business to exclude equity in these 
+assets. 
+Step 4 – Attach Required  
+Documentation
+You will need to attach supporting documentation with Form(s) 433-A (OIC) and  
+433-B (OIC). See a list of the documents required at the end of each  form. Include 
+copies of all required attachments. Do not send original documents. 
+Step 5 – Fill out Form 656, Offer   
+in Compromise
+Fill out Form 656. The Form 656 identifies the tax years and type of tax you would  
+like to compromise. It also identifies your offer amount and the payment terms. 
+Your offer amount must be equal to or greater than the amount calculated in Form 
+433-A(OIC) or 433-B(OIC).  
+Step 6 – Include Initial Payment  
+and $205 Application Fee 
+You may pay the application fee and initial payment through the Electronic Federal 
+Tax Payment System (EFTPS). Individual taxpayers may also pay the fee and 
+initial offer payment through their Individual Online Account. These required 
+payments may be made electronically even if the offer application itself is not 
+submitted through your Individual Online Account. Generally, initial payments will 
+not be returned but will be applied to your tax debt if your offer is not accepted.
+If you are unable to pay electronically, you may pay by personal check, cashier’s 
+check, or money order. Provide a separate personal check, cashier’s check, or 
+money order for each fee and offer payment you submit. Make checks or money 
+orders in U.S. dollars and payable to the "United States Treasury." 
+Reminder: If you meet the Low-Income Certification guidelines DO NOT send 
+any money with your application.
+Step 7 – Send the Application   
+Package 
+Individual taxpayers may apply online using the Individual Online Account, see 
+"Apply Online" on page 4 for more details.
+If not applying online, you must mail the application package to the Centralized 
+Offer in Compromise Unit in either the Memphis or Brookhaven IRS Center, 
+depending on the state where you reside. See page 29, Application Checklist, for 
+the correct IRS address to send your application. Make a copy of your application 
+and keep it for your records.
+5
+Note: If you are working with an IRS employee, let them know you are  
+sending or have sent an offer to compromise your tax debt(s).  
+IMPORTANT INFORMATION
+After You Send Your Application: We will contact you after we receive and review your offer application. Promptly 
+reply to any requests for additional information within the time frame specified. 
+Failure to reply timely will result in the return of your offer without appeal rights.
+If we accept your offer, you must continue to timely file all required tax returns and 
+timely pay all estimated tax payments and federal tax payments that become due 
+in the future. If you fail to timely file and timely pay any tax obligations that become 
+due within the five years after your offer acceptance we may default your offer. If 
+we default your offer, you will be liable for the original tax debt, less payments 
+made, and all accrued interest and penalties. An offer does not stop the accrual of 
+interest and penalties. Please note that if your final payment is more than the 
+agreed amount, we will not return the money but will apply it to your tax debt.
+In addition, we may default your offer if you fail to promptly pay any tax debts 
+assessed after acceptance of your offer for any tax years prior to acceptance that 
+were not included in your original offer.
+6
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Form 433-A (OIC) 
+(April 2026) 
+Department of the Treasury — Internal Revenue Service 
+Collection Information Statement for Wage Earners and  
+Self-Employed Individuals 
+Use this form if you are 
+●   An individual who owes income tax on a Form 1040, U.S.  
+Individual Income Tax Return 
+●   An individual with a personal liability for Excise Tax 
+●   An individual responsible for a Trust Fund Recovery Penalty 
+●   An individual who is self-employed or has self-employment  
+income. You are considered to be self-employed if you are in 
+business for yourself, or operate a trade or business. 
+●   An individual who is personally responsible for a partnership 
+liability (only if the partnership is submitting an offer)
+●   An individual who is submitting an offer on behalf of the 
+estate of a deceased person
+Note: Include attachments if additional space is needed to respond completely to any question. This form should only be used with the Form 
+656, Offer in Compromise.
+Section 1 Personal and Household Information 
+Last name First name Date of birth (mm/dd/yyyy) Social Security Number or ITIN
+Marital status 
+Unmarried Married 
+If married, date of marriage (mm/dd/yyyy)
+Home physical address (street, city, state, ZIP code) Do you
+Own your home Rent 
+Other (specify e.g., share rent, live with relative, etc.) 
+If you were married and lived in AZ, CA, ID, LA, NM, NV, TX, WA or WI within the last ten years check here
+County of residence Primary phone
+Secondary phone FAX number
+Home mailing address (if different from above or post office box number) 
+Provide information about your spouse.
+Spouse's last name Spouse's first name Date of birth (mm/dd/yyyy) Social Security Number
+Provide information for all other persons in the household or claimed as a dependent.
+Name Age Relationship Claimed as a dependent  
+on your Form 1040 
+Contributes to  
+household income
+Yes No Yes No
+Yes No Yes No
+Yes No Yes No
+Yes No Yes No
+Section 2 Employment Information for Wage Earners 
+Complete this section if you or your spouse are wage earners and receive a Form W-2. If you or your spouse have self-employment income (that is 
+you file a Schedule C, E, F, etc.) instead of, or in addition to wage income, you must also complete Business Information in Sections 4, 5, and 6.
+Your employer’s name Pay period Weekly Bi-weekly
+Monthly Other
+Employer’s address (street, city, state, ZIP code)
+Do you have an ownership interest in this business
+Yes (also complete and submit Form 433-B) No
+Your occupation How long with this employer
+(years) (months)
+Spouse’s employer's name Pay period Weekly Bi-weekly
+Monthly Other
+Employer’s address (street, city, state, ZIP code)
+Does your spouse have an ownership interest in this business
+Yes (also complete and submit Form 433-B) No
+Spouse's occupation How long with this employer
+(years) (months)
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Page 2 
+Section 3 Personal Asset Information (Domestic and Foreign)
+Use the most current statement for each type of account, such as checking, savings, money market and online accounts, stored value cards (such as a  
+payroll card from an employer), investment, retirement accounts (IRAs, Keogh, 401(k) plans, stocks, bonds, mutual funds, certificates of deposit) and 
+digital assets, or financial interests in digital assets, such as non-fungible tokens (NFTs) and virtual currencies, such as cryptocurrencies and 
+stablecoins, life insurance policies that have a cash value, or may be sold on a secondary market, a life settlement, and safe deposit boxes including 
+those located in foreign countries or jurisdictions. Asset value is subject to adjustment by IRS based on individual circumstances. Enter the total amount 
+available for each of the following (if additional space is needed include attachments). Ensure you also include assets located in foreign countries or 
+jurisdictions and add attachment(s) if additional space is needed to respond.
+Round to the nearest dollar. Do not enter a negative number. If any line item is a negative number, enter "0".
+Cash and Investments (domestic and foreign) 
+Cash Checking Savings Money Market Account/CD Online Account Stored Value Card
+Bank name and country location Account number 
+(1a)  $ 
+Checking Savings Money Market Account/CD Online Account Stored Value Card
+Bank name and country location Account number 
+(1b)  $ 
+Total of bank accounts from attachment (1c)  $ 
+Add lines (1a) through (1c) minus ($1,000) = (1)  $ 
+Investment account Stocks Bonds Other
+Name of Financial Institution and country location Account number 
+Current market value 
+$ 
+Minus loan balance 
+–  $ = (2a)  $ 
+Investment account Stocks Bonds Other
+Name of Financial Institution and country location Account number 
+Current market value 
+$ 
+Minus loan balance 
+–  $ = (2b)  $ 
+Total investment accounts from attachment. [current market value minus loan balance(s)] (2d)  $ 
+Add lines (2a) through (2d) = (2)  $ 
+Digital asset
+Description of digital asset
+Number 
+of units
+Location of digital asset (exchange 
+account, self-hosted wallet)
+Account number for assets held by 
+a custodian or broker
+Digital asset address for self-hosted digital assets US dollar equivalent of the digital asset as of today
+$ = (2c)  $ 
+Retirement account 401K IRA Other
+Name of Financial Institution and country location Account number 
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ = (3a)  $ 
+Total of retirement accounts from attachment. [current market value X .8 minus loan balance(s)] (3b)  $ 
+Add lines (3a) through (3b) = (3)  $ 
+Note: Your reduction from current market value may be greater than 20% due to potential tax consequences/withdrawal penalties.
+Cash value of Life Insurance Policies 
+Name of Insurance Company Policy number 
+Current cash value 
+$ 
+Minus loan balance
+–  $ = (4a) $ 
+Total cash value of life insurance policies from attachment 
+$ 
+Minus loan balance(s) 
+–  $ = (4b) $ 
+Add lines (4a) through (4b) = (4) $ 
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Page 3 
+Section 3 (Continued) Personal Asset Information (Domestic and Foreign)
+Real property – Enter information about any house, condo, co-op, time share, etc. that you own (or have interest in through a life estate), or 
+that your spouse owns if you live in a community property state.
+Is your real property currently for sale or do you anticipate selling your real property to fund the offer amount
+Yes (listing price) No
+Property description (indicate if personal residence, rental property, vacant, etc.) Purchase date (mm/dd/yyyy)
+Amount of mortgage payment Date of final payment How title is held (joint tenancy, etc.)
+Location (street, city, state, ZIP code, county, and country) Lender/Contract holder name, address (street, city, 
+state, ZIP code) and phone
+Current market value
+$ X .8 =  $ 
+Minus loan balance (mortgages, etc.) 
+–  $ (total value of real estate) = (5a) $ 
+Property description (indicate if personal residence, rental property, vacant, etc.) Purchase date (mm/dd/yyyy)
+Amount of mortgage payment Date of final payment How title is held (joint tenancy, etc.)
+Location (street, city, state, ZIP code, county, and country) Lender/Contract holder name, address (street, city, 
+state, ZIP code) and phone
+Current market value
+$ X .8 =  $ 
+Minus loan balance (mortgages, etc.) 
+–  $ (total value of real estate) = (5b) $ 
+Total value of property(s) from attachment [current market value X .8  minus any loan balance(s)] (5c) $ 
+Add lines (5a) through (5c) = (5) $ 
+Vehicles (enter information about any cars, boats, motorcycles, etc. that you own or lease).  
+Include those located in foreign countries or jurisdictions. If additional space is needed, list on an attachment. 
+Vehicle make & model Year Date purchased Mileage License/Tag number
+Lease
+Own
+Name of creditor Date of final payment Monthly lease/loan amount 
+$
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ 
+Total value of vehicle (if the vehicle 
+is leased, enter 0 as the total value)  = (6a) $ 
+Subtract $3,450 from line (6a) 
+(If line (6a) minus $3,450 is a negative number, enter "0") (6b) $ 
+Vehicle make & model Year Date purchased Mileage License/Tag number
+Lease
+Own
+Name of creditor Date of final payment Monthly lease/loan amount 
+$
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ 
+Total value of vehicle (if the vehicle 
+is leased, enter 0 as the total value)  = (6c) $ 
+If you are filing a joint offer, subtract $3,450 from line (6c) 
+(If line (6c) minus $3,450 is a negative number, enter "0") 
+ If you are not filing a joint offer, enter the amount from line (6c) 
+(6d) $ 
+Total value of vehicles listed from attachment [current market value X .8 minus any loan balance(s)] (6e) $ 
+Total lines (6b), (6d), and (6e) = (6) $ 
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Page 4 
+Section 3 (Continued) Personal Asset Information (Domestic and Foreign)
+Other valuable items (artwork, collections, jewelry, items of value in safe deposit boxes, interest in a company or business that is not publicly traded, etc.)
+Description of asset(s) 
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ = (7a) $
+Value of remaining furniture and personal effects (not listed above) 
+Description of asset
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ = (7b) $ 
+Total value of valuable items listed from attachment [current market value X .8  minus any loan balance(s)] (7c) $ 
+Add lines (7a) through (7c) minus IRS deduction of $11,980 = (7) $ 
+ 
+Do not include amount on the lines with a letter beside the number. Round to the nearest whole dollar. 
+Do not enter a negative number. If any line item is a negative, enter "0" on that line. 
+Add lines (1) through (7) and enter the amount in Box A =
+Box A 
+Available Individual Equity in Assets
+$
+NOTE: If you or your spouse are self-employed, Sections 4, 5, and 6 must be completed before continuing with Sections 7 and 8.
+Section 4 Self-Employed Information 
+If you or your spouse are self-employed (e.g., files Schedule(s) C, E, F, etc.), complete this section. 
+Is your business a sole proprietorship
+Yes No
+Name of business 
+Address of business (if other than personal residence) 
+Business telephone number Employer Identification Number Business website address Trade name or DBA
+Description of business Total number of employees Frequency of tax deposits Average gross monthly  
+payroll $ 
+Do you or your spouse have any other business interests? Include any 
+interest in an LLC, LLP, corporation, partnership, etc.
+Yes  (percentage of ownership: ) Title
+No
+Business address (street, city, state, ZIP code) 
+Business name Business telephone number Employer Identification Number 
+Type of business (select one) 
+Partnership LLC Corporation Other
+Section 5 Business Asset Information (for Self-Employed) (Domestic and Foreign)
+List business assets including bank accounts, digital assets (such as cryptocurrency), tools, books, machinery, equipment, business vehicles and real 
+property that is owned/leased/rented. If additional space is needed, attach a list of items. Do not include personal assets listed in Section 3.
+Round to the nearest whole dollar. Do not enter a negative number. If any line item is a negative number, enter "0".
+Cash Checking Savings Money Market/CD Online Account Stored Value Card
+Bank name and country location Account number 
+(8a)  $ 
+Cash Checking Savings Money Market/CD Online Account Stored Value Card
+Bank name and country location Account number 
+(8b)  $ 
+Digital asset
+Description of digital asset
+Number 
+of units
+Location of digital asset (exchange 
+account, self-hosted wallet)
+Account number for assets held by 
+a custodian or broker
+Digital asset address for self-hosted digital assets US dollar equivalent of the digital asset as of today
+$ = (8c)  $ 
+Total bank accounts from attachment (8d)  $ 
+Add lines (8a) through (8d) = (8) $ 
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Page 5 
+Section 5 (Continued) Business Asset Information (for Self-Employed) (Domestic and Foreign)
+Description of asset
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ 
+Total value (if leased or used 
+in the production of income, 
+enter 0 as the total value) = (9a)  $ 
+Description of asset: 
+Current market value
+$ X .8 =  $ 
+Minus Loan Balance
+–  $ 
+Total value (if leased or used 
+in the production of income, 
+enter 0 as the total value) = (9b)  $ 
+Total value of assets listed from attachment [current market value X .8 minus any loan balance(s)] (9c)  $ 
+Add lines (9a) through (9c) = (9) $ 
+IRS allowed deduction for professional books and tools of trade for individuals and sole-proprietors –  (10)  $
+Enter the value of line (9) minus line (10). If less than zero enter zero. = (11) $ 
+Notes Receivable 
+Do you have notes receivable Yes No
+If yes, attach current listing that includes name(s) and amount of note(s) receivable
+Accounts Receivable 
+Do you have accounts receivable, including e-payment, factoring 
+companies, and any bartering or online auction accounts Yes No
+If yes, provide a list of your current accounts receivable (include the age and amount)
+ Do not include amounts from the lines with a letter beside the number [for example: (9c)]. 
+Round to the nearest whole dollar. 
+Do not enter a negative number. If any line item is a negative, enter "0" on that line. 
+Add lines (8) and (11) and enter the amount in Box B = 
+Box B 
+Available Business Equity in 
+Assets
+$
+Section 6 Business Income and Expense Information (for Self-Employed) 
+If you provide a current profit and loss (P&L) statement for the information below, enter the total gross monthly income on line 17 and your monthly 
+expenses on line 29 below. Do not complete lines (12) - (16) and (18) - (28). You may use the amounts claimed for income and  expenses on your most 
+recent Schedule C; however, if the amount has changed significantly within the past year, a current P&L should be  submitted to substantiate the claim. 
+Period provided beginning through
+Round to the nearest whole dollar. Do not enter a negative number. If any line item is a negative number, enter "0".
+Business income (you may average 6-12 months income/receipts to determine your gross monthly income/receipts) 
+Gross receipts (12) $
+Gross rental income (13) $
+Interest income (14) $
+Dividends (15) $
+Other income (16) $
+Add lines (12) through (16) = (17) $
+Business expenses (you may average 6-12 months expenses to determine your average expenses) 
+Materials purchased (e.g., items directly related to the production of a product or service) (18) $
+Inventory purchased (e.g., goods bought for resale) (19) $
+Gross wages and salaries (20) $
+Rent (21) $
+Supplies (items used to conduct business and used up within one year, e.g., books, office supplies, professional equipment, etc.) (22) $
+Utilities/telephones (23) $
+Vehicle costs (gas, oil, repairs, maintenance) (24) $
+Business insurance (25) $
+Current business taxes (e.g., real estate, excise, franchise, occupational, personal property, sales and employer's portion of 
+employment taxes) (26) $
+Secured debts (not credit cards) (27) $
+Other business expenses (include a list) (28) $
+Add lines (18) through (28) = (29) $
+ Round to the nearest whole dollar. 
+Do not enter a negative number. If any line item is a negative, enter "0" on that line. 
+Subtract line (29) from line (17) and enter the amount in Box C = 
+Box C  
+Net Business Income
+$
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Page 6 
+Section 7 Monthly Household Income and Expense Information 
+Enter your household's average gross monthly income. Gross monthly income includes wages, social security, pension, unemployment, and other 
+income. Examples of other income include but are not limited to: agricultural subsidies, gambling income, oil credits, rent subsidies, sharing economy 
+income from providing on-demand work, services or goods (e.g., Uber, Lyft, DoorDash, AirBnB, VRBO), income through digital platforms like an app or 
+website, etc., and recurring capital gains from the sale of securities or other property such as digital assets. Include the below information for yourself, 
+your spouse, and anyone else who contributes to your household’s income. This is necessary for the IRS to accurately evaluate your offer. 
+Monthly Household Income 
+Note: Entire household income should also include income that is considered not taxable and may not be included on your tax return. 
+Round to the nearest whole dollar.
+Primary taxpayer 
+Gross wages 
+$ 
+Social Security 
++  $ 
+Pension(s) 
++  $ 
+Other income (e.g. unemployment)
++  $ Total primary 
+taxpayer income = (30) $
+Spouse
+Gross wages 
+$ 
+Social Security 
++  $ 
+Pension(s) 
++  $ 
+Other Income (e.g. unemployment)
++  $ Total spouse 
+income = (31) $
+(32) $
+Distributions (e.g., income from partnerships, sub-S Corporations, etc.) (34) $
+Net rental income (35) $
+Net business income from Box C [Deductions for non-cash expenses on Schedule C (e.g., depreciation, depletion, etc.) are 
+not permitted as an expense for offer purposes and must be added back in to the net income figure] (36) $
+Child support received (37) $
+Alimony received (38) $
+Round to the nearest whole dollar. 
+Do not enter a negative number. If any line item is a negative, enter "0" on that line. 
+ Add lines (30) through (38) and enter the amount in Box D =
+Box D  
+Total Household Income
+$
+Food, clothing, and miscellaneous (e.g., housekeeping supplies, personal care products, minimum payment on credit card). 
+A reasonable estimate of these expenses may be used (39) $
+Housing and utilities (e.g., rent or mortgage payment and average monthly cost of property taxes, home insurance, 
+maintenance, dues, fees and utilities including electricity, gas, other fuels, trash collection, water, cable television and internet, 
+telephone, and cell phone)  monthly rent payment (40) $
+Vehicle loan and/or lease payment(s) (41) $
+Vehicle operating costs (e.g., average monthly cost of maintenance, repairs, insurance, fuel, registrations, licenses, 
+inspections, parking, tolls, etc.). A reasonable estimate of these expenses may be used (42) $
+Public transportation costs (e.g., average monthly cost of fares for mass transit such as bus, train, ferry, etc.). A reasonable 
+estimate of these expenses may be used (43) $
+Health insurance premiums (44) $
+Out-of-pocket health care costs (e.g. average monthly cost of prescription drugs, medical services, and medical supplies like  
+eyeglasses, hearing aids, etc.) (45) $
+Court-ordered payments (e.g., monthly cost of any alimony, child support, etc.) (46) $
+Child/dependent care payments (e.g., daycare, etc.) (47) $
+Life insurance premiums Life insurance policy amount (48) $
+Current monthly taxes (e.g., monthly cost of federal, state, and local tax, personal property tax, etc.) (49) $
+Interest, dividends, and royalties (33) $
+Additional sources of income used to support the household, e.g., non-liable spouse, or anyone else who may 
+contribute to the household income, etc. List source(s)
+(50) $
+Enter the amount of your monthly delinquent state and/or local tax payment(s) . Total tax owed (51) $
+Round to the nearest whole dollar. 
+Do not enter a negative number. If any line item is a negative, enter "0" on that line. 
+Add lines (39) through (51) and enter the amount in Box E =
+Secured debts/Other (e.g., any loan where you pledged an asset as collateral not previously listed, government guaranteed 
+student loan, employer required retirement or dues) List debt(s)/expense(s)
+Box E 
+Total Household Expenses 
+$
+Round to the nearest whole dollar. 
+Do not enter a negative number. If any line item is a negative, enter "0" on that line. 
+ Subtract Box E from Box D and enter the amount in Box F =
+Box F 
+Remaining Monthly Income 
+$
+Monthly Household Expenses   
+Enter your average monthly expenses.   
+Note: For expenses claimed in boxes (39) and (45) only, you should list the full amount of the allowable standard even if the 
+actual amount you pay is less. For the other boxes input your actual expenses. You may find the allowable standards at 
+IRS.gov/Businesses/Small-Businesses-&-Self-Employed/Collection-Financial-Standards.
+Round to the nearest whole dollar.
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Page 7 
+Section 8 Calculate Your Minimum Offer Amount 
+If you will pay your offer in 5 or fewer payments within 5 months or less, multiply "Remaining Monthly Income" (Box F)  by 12 to get "Future Remaining 
+Income" (Box G). Do not enter a number less than $0.
+Enter the total from Box F  
+$ X 12  = 
+Box G Future Remaining Income
+$
+If you will pay your offer in 6 to 24 months, multiply "Remaining Monthly Income" (Box F) by 24 to get "Future Remaining Income" (Box H). Do not enter 
+a number less than $0.
+Enter the total from Box F  
+$ X 24  = 
+Box H Future Remaining Income
+$
+Determine your minimum offer amount by adding the total available assets from Box A and Box B (if applicable) to the amount in either Box G or Box H.
+Enter the amount from Box A 
+plus Box B (if applicable)   
+$ + 
+Enter the amount from either 
+Box G or Box H 
+$ =
+Offer Amount  
+Your offer must be more than zero ($0). Do 
+not leave blank. Use whole dollars only.
+$ 
+Place the offer amount shown above on the Form 656, Section 4, Payment Terms, unless you cannot pay that amount due to 
+special circumstances. If you cannot pay that amount due to special circumstances, place the amount you can pay on the 
+Form 656, Section 4, Payment Terms, and explain your special circumstances on the Form 656, Section 3, Reason for Offer.
+Section 9
+Are you currently incarcerated Yes No If yes, provide your inmate number
+Other Information 
+If you or your business are currently in a bankruptcy proceeding, you are not eligible to apply for an offer.
+Have you filed bankruptcy in the past 7 years (if yes, answer the following) Yes No
+Date filed (mmddyyyy) Date dismissed (mmddyyyy) Date discharged (mmddyyyy) Petition no. Location filed
+In the past 10 years, have you lived outside of the U.S. for 6 months or longer (if yes, answer the following) Yes No
+Dates lived abroad: From (mmddyyyy) To (mmddyyyy)
+Are you a party to or involved in litigation (if yes, answer the following) Yes No
+Defendant
+Plaintiff Location of filing Docket/Case numberRepresented by
+Possible completion date (mmddyyyy) Subject of litigation
+$ 
+Amount of dispute
+If yes and the litigation included tax debt, provide the types of tax and periods involved
+NoYesAre you or have you ever been party to any litigation involving the IRS/United States (including any tax litigation)
+Are you a trustee, fiduciary, or contributor of a trust Yes No
+EIN
+Do you have a safe deposit box (business or personal) including those located in foreign countries or jurisdictions (if yes, answer 
+the following)
+Yes No
+Location (name, address and box number(s)) Contents Value
+$
+Name of the trust
+Are you the beneficiary of a trust, estate, or life insurance policy, including those located in foreign countries or jurisdictions 
+(if yes, answer the following)
+Yes No
+Place where recorded EIN
+Name of the trust, estate, or policy Anticipated amount to be received
+$
+When will the amount be received
+The next steps calculate your minimum offer amount. The amount of time you take to pay your offer in full will affect your minimum offer amount. Paying 
+over a shorter period of time will result in a smaller minimum offer amount.
+Note: The multipliers below (12 and 24) and the calculated offer amount (which included the amount(s) allowed for vehicles and bank 
+accounts) do not apply if the IRS determines you have the ability to pay your tax debt in full within the legal period to collect.
+Round to the nearest whole dollar.
+Catalog Number 55896Q www.irs.gov Form 433-A (OIC) (Rev. 4-2026) 
+Page 8 
+Section 9 (Continued) Other Information 
+In the past 10 years, have you transferred any asset with a fair market value of more than $10,000 including real property, for 
+less than their full value (if yes, answer the following)
+Yes No
+List asset(s) Value at time of transfer
+$
+Date transferred (mmddyyyy) To whom or where was it transferred
+Do you have any assets or own any real property outside the U.S. Yes No
+If yes, provide description, location, and value
+Do you have any funds being held in trust by a third party Yes No
+If yes, how much $ Where
+Section 10 Signatures 
+Under penalties of perjury, I declare that I have examined this offer, including accompanying documents, and to the best of my knowledge it 
+is true, correct, and complete. 
+Signature of Taxpayer Date (mm/dd/yyyy) 
+Signature of Spouse Date (mm/dd/yyyy) 
+Remember to include all applicable attachments listed below. 
+Copies of the most recent pay stub, earnings statement, etc., from each employer. 
+Copies of the most recent statement for each investment and retirement account.
+Copies of all documents and records showing currently held digital assets.
+Copies of the most recent statement, etc., from all other sources of income such as pensions, Social Security, rental income, interest and 
+dividends (including any received from a related partnership, corporation, LLC, LLP, etc.), court order for child support, alimony, royalties, 
+agricultural subsidies, gambling income, oil credits, rent subsidies, sharing economy income from providing on-demand work, services or goods 
+(e.g., Uber, Lyft, AirBnB, VRBO), income through digital platforms like an app or website, etc., and recurring capital gains from the sale of 
+securities or other property such as digital assets.
+Copies of individual complete bank statements for the three most recent months. If you operate a business, copies of the six most recent 
+complete statements for each business bank account.
+Completed Form 433-B (Collection Information Statement for Businesses) if you or your spouse have an interest in a business entity other than a 
+sole-proprietorship.
+Copies of the most recent statement from lender(s) on loans such as mortgages, second mortgages, vehicles, etc., showing monthly payments, 
+loan payoffs, and balances.
+List of Accounts Receivable or Notes Receivable, if applicable.
+Verification of delinquent State/Local Tax Liability showing total delinquent state/local taxes and amount of monthly payments, if applicable.
+Copies of court orders for child support/alimony payments claimed in monthly expense section.
+Copies of Trust documents if applicable per Section 9.
+Documentation to support any special circumstances described in the “Explanation of Circumstances” on Form 656, if applicable.  
+Attach a Form 2848, Power of Attorney and Declaration of Representative, if you would like your attorney, CPA, or enrolled agent to represent 
+you and you do not have a current form on file with the IRS. Ensure all years and forms involved in your offer are listed on Form 2848 and include 
+the current tax year.
+Completed and signed current Form 656.
+We ask for the information on this form to carry out the internal revenue laws of the United States. Our authority to request this information is section § 
+7801 of the Internal Revenue Code.  
+Our purpose for requesting the information is to determine if it is in the best interests of the IRS to accept an offer. You are not required to make an offer; 
+however, if you choose to do so, you must provide all of the taxpayer information requested. Failure to provide all of the information may prevent us from 
+processing your request. 
+If you are a paid preparer and you prepared the Form 656 for the taxpayer submitting an offer, we request that you complete and sign Section 9 on Form 
+656, and provide identifying information. Providing this information is voluntary. This information will be used to administer and enforce the internal 
+revenue laws of the United States and may be used to regulate practice before the Internal Revenue Service for those persons subject to Treasury 
+Department Circular No. 230, Regulations Governing the Practice of Attorneys, Certified Public Accountants, Enrolled Agents, Enrolled Actuaries, and 
+Appraisers before the Internal Revenue Service. Information on this form may be disclosed to the Department of Justice for civil and criminal litigation. 
+We may also disclose this information to cities, states and the District of Columbia for use in administering their tax laws and to combat terrorism. 
+Providing false or fraudulent information on this form may subject you to criminal prosecution and penalties. 
+Privacy Act Statement
+Catalog Number 55897B www.irs.gov Form  433-B (OIC) (Rev. 4-2026) 
+Form  433-B (OIC) 
+(April 2026) 
+Department of the Treasury — Internal Revenue Service 
+Collection Information Statement for Businesses 
+Complete this form if your business is a 
+●   Corporation 
+●   Partnership 
+●   Limited Liability Company (LLC) classified as a corporation 
+●   Other LLC 
+Note: If your business is a sole proprietorship do not use this form. Instead, complete Form 433-A (OIC) Collection Information Statement for 
+Wage Earners and Self-Employed Individuals. This form should only be used with the Form 656, Offer in Compromise. 
+Include attachments if additional space is needed to respond completely to any question. 
+Section 1 Business Information (Domestic and Foreign)
+Business name Employer Identification Number 
+Business physical address (street, city, state, ZIP code) 
+Primary phone Secondary phone
+Business website address 
+County of business location 
+Description of business and DBA or "Trade Name" 
+Business mailing address (if different from above or post office box number) 
+FAX number
+Federal contractor 
+Yes No
+Total number of employees 
+Check here if you are the only employee
+Frequency of tax deposits Average gross monthly payroll 
+$
+Does the business outsource its payroll processing and tax return  
+preparation for a fee
+Yes No If yes, list provider name and address in box below 
+(street, city, state, ZIP code) 
+Provide information about all partners, officers, LLC members, major shareholders (domestic and foreign), etc., associated with the business. 
+Include attachments if additional space is needed. 
+Last name First name Title 
+Percent of ownership and annual salary Social Security Number Home address (street, city, state, ZIP code)
+Primary phone Secondary phone
+Last name First name Title 
+Percent of ownership and annual salary Social Security Number Home address (street, city, state, ZIP code)
+Primary phone Secondary phone
+Last name First name Title 
+Percent of ownership and annual salary Social Security Number Home address (street, city, state, ZIP code)
+Primary phone Secondary phone
+Catalog Number 55897B www.irs.gov Form  433-B (OIC) (Rev. 4-2026) 
+Page 2 
+Section 2 Business Asset Information (Domestic and Foreign)
+Gather the most current statement from banks, lenders on loans, mortgages (including second mortgages), monthly payments, loan balances, and  
+accountant's depreciation schedules, if applicable. Also, include make/model/year/mileage of vehicles and current value of business assets. To estimate 
+the current value, you may consult resources like Kelley Blue Book (www.kbb.com), NADA (www.nada.com), local real estate postings of properties similar 
+to yours, and any other websites or publications that show what the business assets would be worth if you were to sell them. Asset value is subject to 
+adjustment by IRS. Enter the total amount available for each of the following (if additional space is needed, please include attachments). 
+Round to the nearest dollar. Do not enter a negative number. If any line item is a negative number, enter "0".
+Cash and investments (domestic and foreign) 
+Cash Checking Savings Money Market/CD Online Account Stored Value Card
+Bank name and country location Account number 
+(1a)  $ 
+Cash Checking Savings Money Market/CD Online Account Stored Value Card
+Bank name and country location Account number 
+(1b)  $ 
+Cash Checking Savings Money Market/CD Online Account Stored Value Card
+Bank name and country location Account number 
+(1c)  $ 
+Total bank accounts from attachment (1d)  $ 
+Add lines (1a) through (1d) = (1) $ 
+Investment account Stocks Bonds Other
+Name of Financial Institution and country location Account number 
+Current market value 
+$ 
+Minus loan balance 
+–  $ = (2a)  $ 
+Investment Account: Stocks Bonds Other
+Name of Financial Institution and country location Account number 
+Current market value
+$ 
+Minus loan balance
+–  $ = (2b)  $ 
+Digital asset
+Description of digital asset
+Number 
+of units
+Location of digital asset (exchange 
+account, self-hosted wallet)
+Account number for assets held by 
+a custodian or broker
+Digital asset address for self-hosted digital assets US dollar equivalent of the digital asset as of today
+$ = (2c)  $ 
+Total investment accounts from attachment. [current market value minus loan balance(s)] (2d)  $ 
+Add lines (2a) through (2d) = (2)  $ 
+Notes Receivable 
+Do you have notes receivable Yes No
+If yes, attach current listing which includes name, age, and amount of note(s) receivable
+Accounts Receivable 
+Do you have accounts receivable, including e-payment, factoring 
+companies, and any bartering or online auction accounts Yes No
+If yes, provide a list of name, age, and amount of the current accounts receivable
+Catalog Number 55897B www.irs.gov Form  433-B (OIC) (Rev. 4-2026) 
+Page 3 
+Section 2 (Continued) Business Asset Information (Domestic and Foreign)
+If the business owns more properties, vehicles, or equipment than shown in this form, please list on a separate attachment. 
+Real estate (buildings, lots, commercial property, etc.) 
+Is your real property currently for sale or do you anticipate selling your real property to fund the offer amount
+Yes (listing price) No
+Property address (street address, city, 
+state, ZIP code, county, and country) 
+Property description (indicate if rental property, vacant, etc.) Date purchased 
+Monthly mortgage payment Date of final payment
+Name of lender/contract holder
+Current market value
+$ X .8 =  $ 
+Minus loan balance (mortgages, etc.)
+–  $ Total value of real estate = (3a)  $ 
+Property address (street address, city, 
+state, ZIP code, county, and country)
+Property description (indicate if rental property, vacant, etc.) Date purchased 
+Monthly mortgage payment Date of final payment
+Name of lender/contract holder
+Current market value
+$ X .8 =  $ 
+Minus loan balance (mortgages, etc.)
+–  $ Total value of real estate = (3b)  $ 
+Total value of property(s) listed from attachment [current market value X .8  minus any loan balance(s)] (3c)  $ 
+Add lines (3a) through (3c) = (3)  $ 
+Business vehicles (cars, boats, motorcycles, trailers, etc.). Include those located in foreign countries or jurisdictions. If additional space is needed, list on an 
+attachment.
+Vehicle make & model Year Date purchased Mileage or use hours License/Tag number
+Lease
+Own
+Name of creditor Date of final payment Monthly lease/loan amount 
+$
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ 
+Total value of vehicle (if the vehicle 
+is leased, enter 0 as the total value)  = (4a) $ 
+Mileage or use hours License/Tag numberVehicle make & model Year Date purchased 
+Lease
+Own
+Name of creditor Date of final payment Monthly lease/loan amount
+$
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ 
+Total value of vehicle (if the vehicle 
+is leased, enter 0 as the total value)  = (4b) $ 
+Vehicle make & model Year Date purchased Mileage or use hours License/Tag number
+Lease
+Own
+Name of creditor Date of final payment Monthly lease/loan amount
+$
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ 
+Total value of vehicle (if the vehicle 
+is leased, enter 0 as the total value)  = (4c) $ 
+Total value of vehicles listed from attachment [current market value X .8 minus any loan balance(s)] (4d)  $ 
+Add lines (4a) through (4d) = (4)  $ 
+Catalog Number 55897B www.irs.gov Form  433-B (OIC) (Rev. 4-2026) 
+Page 4 
+Section 2 (Continued) Business Asset Information (Domestic and Foreign) 
+Other business equipment   
+[If you have more than one piece of equipment, please list on a separate attachment and put the total of all equipment in box (5b)]
+Type of equipment
+Current market value
+$ X .8 =  $ 
+Minus loan balance
+–  $ 
+Total value of equipment 
+(if leased or used in the production of 
+income enter 0 as the total value) = (5a)  $ 
+Total value of equipment listed from attachment [current market value X .8 minus any loan balance(s)] (5b)  $ 
+Total value of all business equipment 
+Add lines (5a) and (5b)  = (5)  $ 
+Do not include amount on the lines with a letter beside the number. Round to the nearest dollar. 
+Do not enter a negative number. If any line item is a negative number, enter "0" on that line. 
+Add lines (1) through (5) and enter the amount in Box A = 
+Box A 
+Available Equity in Assets 
+$
+Section 3 Business Income Information 
+Enter the average gross monthly income of your business. To determine your gross monthly income use the most recent 6-12 months documentation of 
+commissions, invoices, gross receipts from sales/services, etc.; most recent 6-12 months earnings statements, etc., from every other source of income (such as 
+rental income, interest and dividends, or subsidies); or you may use the most recent 6-12 months Profit and Loss (P&L) to provide the  information of income and 
+expenses. 
+Note: If you provide a current profit and loss statement for the information below, enter the total gross monthly income in Box B below. Do not 
+complete lines (6) - (10). 
+Period provided beginning through
+Gross receipts (6)  $ 
+Gross rental income (7)  $ 
+Interest income (8)  $ 
+Dividends (9)  $ 
+Other income (specify on attachment) (10)  $ 
+Round to the nearest dollar. 
+Do not enter a negative number. If any line item is a negative number, enter "0" on that line. 
+Add lines (6) through (10) and enter the amount in Box B =
+Box B 
+Total Business Income 
+$
+Section 4 Business Expense Information 
+Enter the average gross monthly expenses for your business using your most recent 6-12 months statements, bills, receipts, or other documents  
+showing monthly recurring expenses. Deductions for non-cash expenses (e.g., depreciation, depletion, etc.) are not permitted as an expense for 
+offer purposes. 
+Note: If you provide a current profit and loss statement for the information below, enter the total monthly expenses in Box C below. Do not  
+complete lines (11) - (20). 
+Period provided beginning through
+Materials purchased (e.g., items directly related to the production of a product or service) (11)  $ 
+Inventory purchased (e.g., goods bought for resale) (12)  $ 
+Gross wages and salaries (13)  $ 
+Rent (14)  $ 
+Supplies (items used to conduct business and used up within one year, e.g., books, office supplies, professional  
+equipment, etc.) (15)  $ 
+Utilities/telephones (16)  $ 
+Vehicle costs (gas, oil, repairs, maintenance) (17)  $ 
+Insurance (other than life) (18)  $ 
+Current taxes (e.g., real estate, state, and local income tax, excise franchise, occupational, personal property,  
+sales and employer's portion of employment taxes, etc.) (19)  $ 
+Other expenses (e.g., secured debt payments. Specify on attachment. Do not include credit card payments) (20)  $ 
+Round to the nearest dollar. 
+Do not enter a negative number. If any line item is a negative number, enter "0" on that line. 
+Add lines (11) through (20) and enter the amount in Box C = 
+Round to the nearest dollar. 
+Do not enter a negative number. If any line item is a negative number, enter "0" on that line. 
+Subtract Box C from Box B and enter the amount in Box D =
+Box C 
+Total Business Expenses 
+$
+Box D 
+Remaining Monthly Income 
+$
+Catalog Number 55897B www.irs.gov Form  433-B (OIC) (Rev. 4-2026) 
+Page 5
+Section 5 Calculate Your Minimum Offer Amount 
+The next steps calculate your minimum offer amount. The amount of time you take to pay your offer in full will affect your minimum offer amount. Paying 
+over a shorter period of time will result in a smaller minimum offer amount.   
+Note: The multipliers below (12 and 24) and the calculated offer amount do not apply if IRS determines you have the ability to pay your tax 
+debt in full within the legal period to collect. 
+Round to the nearest whole dollar. 
+If you will pay your offer in 5 or fewer payments within 5 months or less, multiply "Remaining Monthly Income" (Box D) by 12 to get "Future Remaining 
+Income." Do not enter a number less than zero.
+Enter the total from Box D
+$ X 12  = 
+Box E Future Remaining Income
+$
+If you will pay your offer in 6 to 24 months, multiply "Remaining Monthly Income" (Box D) by 24 to get "Future Remaining Income". Do not enter a 
+number less than zero.
+Enter the total from Box D
+$ X 24  = 
+Box F Future Remaining Income
+$
+Determine your minimum offer amount by adding the total available assets from Box A to the amount in either Box E or Box F. Your offer amount must 
+be more than zero. 
+Enter the amount from Box A*
+$ + 
+Enter the amount from either 
+Box E or Box F 
+$ =
+Offer Amount  
+Your offer must be more than zero ($0).  
+Do not leave blank. Use whole dollars only. 
+Place your offer amount on Form 656 
+Section 4, Payment Terms.
+$ 
+*You may exclude any equity in income producing assets (except real estate) shown in Section 2 of this form.
+Section 6 Other Information 
+Additional information IRS needs to consider settlement of your tax debt. If this  business is currently in a bankruptcy proceeding, the 
+business is not eligible to apply for an offer. 
+Is the business currently in bankruptcy
+Yes No
+Has the business filed bankruptcy in the past 10 years 
+Yes No
+If yes, provide
+Date filed (mm/dd/yyyy) Date dismissed or discharged (mm/dd/yyyy) 
+Petition no. Location filed 
+Does this business have other business affiliations (e.g., subsidiary or parent companies)
+Yes No
+If yes, list the name and Employer Identification Number
+Do any related parties (e.g., partners, officers, employees) owe money to the business
+Yes No
+Is the business currently, or in the past, party to litigation
+If yes, answer the following
+Yes No
+If yes and the litigation included tax debt, provide the types of tax and periods involved.
+NoYes
+Are you or have you been party to litigation involving the IRS/United States (including any tax litigation)
+Defendant
+Plaintiff Location of filing Docket/Case numberRepresented by
+Possible completion date (mmddyyyy) Subject of litigation
+$ 
+Amount in dispute
+Catalog Number 55897B www.irs.gov Form  433-B (OIC) (Rev. 4-2026) 
+Page 6 
+Section 7 Signatures 
+Under penalties of perjury, I declare that I have examined this offer, including accompanying documents, and to the best of my knowledge it  
+is true, correct, and complete. 
+Signature of Taxpayer Title Date (mm/dd/yyyy) 
+Remember to include all applicable attachments from the list below. 
+A current Profit and Loss statement covering at least the most recent 6–12 month period, if appropriate.
+Copies of the six most recent complete bank statements for each business account and copies of the three most recent 
+statements for each investment account.
+If an asset is used as collateral on a loan, include copies of the most recent statement from lender(s) on loans, monthly 
+payments, loan payoffs, and balances.
+Copies of the most recent statement of outstanding accounts and notes receivable.
+Copies of all documents and records showing currently held digital assets.
+Copies of the most recent statements from lenders on loans, mortgages (including second mortgages), monthly payments, loan 
+payoffs, and balances.
+Copies of relevant supporting documentation of special circumstances described in the Section 3 on Form 656, if applicable.
+Attach a Form 2848, Power of Attorney and Declaration of Representative, if you would like your attorney, CPA, or enrolled 
+agent to represent you and you do not have a current form on file with the IRS. Ensure all years and forms involved in your offer 
+are listed on Form 2848 and include the current tax year.
+Completed and current signed Form 656.
+In the past 3 years have you transferred any real property (land, house, etc.)
+Yes No
+If yes, list the type of property, value, and date of the transfer
+Has the business been located outside the U.S. for 6 months or longer in the past 10 years
+Yes No
+Does the business have any funds being held in trust by a third party
+Yes No If yes, how much $ Where
+Yes No
+Does the business have any lines of credit
+If yes, credit limit $ Amount owed $ 
+What property secures the line of credit
+Do you have any assets or own any real property outside the U.S.
+Yes No
+If yes, please provide description, location, and value
+In the past 10 years, has the business transferred any asset with a fair market value of more than $10,000, including real property, for less than its full 
+value
+Yes No
+If yes, provide date, value, and type of asset transferred
+Other Information Section 6 (Continued)
+We ask for the information on this form to carry out the internal revenue laws of the United States. Our authority to request this information is section § 
+7801 of the Internal Revenue Code.  
+Our purpose for requesting the information is to determine if it is in the best interests of the IRS to accept an offer. You are not required to make an offer; 
+however, if you choose to do so, you must provide all of the taxpayer information requested. Failure to provide all of the information may prevent us from 
+processing your request. 
+If you are a paid preparer and you prepared the Form 656 for the taxpayer submitting an offer, we request that you complete and sign Section 9 on Form 
+656, and provide identifying information. Providing this information is voluntary. This information will be used to administer and enforce the internal 
+revenue laws of the United States and may be used to regulate practice before the Internal Revenue Service for those persons subject to Treasury 
+Department Circular No. 230, Regulations Governing the Practice of Attorneys, Certified Public Accountants, Enrolled Agents, Enrolled Actuaries, and 
+Appraisers before the Internal Revenue Service. Information on this form may be disclosed to the Department of Justice for civil and criminal litigation. 
+We may also disclose this information to cities, states and the District of Columbia for use in administering their tax laws and to combat terrorism. 
+Providing false or fraudulent information on this form may subject you to criminal prosecution and penalties. 
+Privacy Act Statement
+Catalog Number 16728N www.irs.gov Form 656 (Rev. 4-2026) 
+Form 656 
+(April 2026) Offer in Compromise 
+Department of the Treasury — Internal Revenue Service 
+To: Commissioner of Internal Revenue Service 
+In the following agreement, the pronoun "we" may be assumed in place of "I" when there are joint liabilities and both 
+parties  are signing this agreement.  
+I submit this offer to compromise the tax liabilities plus any interest, penalties, additions to tax, and additional amounts 
+required by law for the tax type and period(s) marked in Section 1 or Section 2 below.
+IRS Received Date 
+(COIC use only) 
+If you are an individual taxpayer, did you use either of the Individual Online Account eligibility check at 
+IRS.gov/OLA or the OIC Pre-Qualifier tool on our website at IRS.gov/OICtool?
+Yes No
+Note: The use of the Pre-Qualifier tool or IOLA eligibility check is not mandatory before sending in your offer. However, it 
+is recommended.
+Attention: You must submit separate offers if you are legally separated and living apart, are divorced, or either spouse has separate tax liabilities.
+Pay the $205 fee and initial payment when submitting your Form 656 unless you qualify for the Low-Income Certification. Fill out either Section 1 or 
+Section 2, but not both.
+If you are a 1040, U.S. Individual Income Tax Return, filer, an individual with personal liability for Excise tax, individual responsible for Trust Fund 
+Recovery Penalty, self-employed individual, or individual personally responsible for partnership liabilities, you should fill out Section 1.
+Section 1 Individual Information (Form 1040 filers)
+Your first name, middle initial, last name Social Security Number (SSN), Individual Taxpayer or Identification 
+Number (ITIN) (if applicable)
+If a joint offer, spouse's first name, middle initial, last name Social Security Number (SSN), Individual Taxpayer or Identification 
+Number (ITIN) (if applicable)
+Your home physical address (street, city, state, ZIP code, county of residence)
+Your home mailing address (if a post office box or different from physical address) 
+Is this a new address since your last filed tax return Yes No
+If yes, would you like us to update our records to this address Yes No
+Your Employer Identification Number (if applicable)
+Individual Tax Periods (For Individual or Sole-Proprietor Tax Debt Only) List all years/periods owed
+Form 1040 U.S. Individual Income Tax Return [e.g., 12-31-2023]
+Trust Fund Recovery Penalty as a responsible person of (enter business name) 
+for failure to pay withholding and Federal Insurance Contributions Act taxes (Social Security taxes), for the quarterly period(s) ending [e.g., 03-31-2023]
+Form 941 Employer's Quarterly Federal Tax Return [e.g., 3-31-2023] 
+Form 940 Employer's Annual Federal Unemployment (FUTA) Tax Return - Year(s) [e.g., 12-31-2023]
+Other Federal Tax(es) [specify type(s) and period(s)] 
+Note:  If you need more space, use attachment and title it “Attachment to Form 656 dated                                   .” Make sure to sign and date the  
+attachment. 
+Warning: The IRS will not compromise any amounts of restitution assessed by the IRS or any tax periods the IRS has referred to the DOJ. Any liability 
+arising from restitution is excluded from this offer. Also, the IRS will not compromise any liability for which an election under IRC § 965(i) is made; such 
+liabilities are excluded from this offer. Any offer containing a liability for which payment is being deferred under IRC § 965(h)(1) can only be processed 
+for investigation if an acceleration of payment under section 965(h)(3) and the regulations thereunder has occurred and no portion of the liability to be 
+compromised resulted from entering into a transfer agreement under section 965(h)(3).
+Catalog Number 16728N www.irs.gov Form 656 (Rev. 4-2026) 
+Page 2 
+Low-Income Certification  (Individuals and Sole Proprietors Only) 
+Do you qualify for Low-Income Certification? You qualify if your adjusted gross income, as determined by your most recently filed Individual Income Tax 
+return (Form 1040) or your household’s gross monthly income from Form 433-A(OIC) x 12, is equal to or less than the amount shown in the chart below 
+based on your family size and where you live. If you qualify, you are not required to submit any payments or the application fee upon submission or 
+during the consideration of your  offer. If your business is other than a sole proprietor or the offer is being filed for a deceased individual, you do not 
+qualify for Low-Income Certification. The IRS will verify whether you qualify for Low-Income Certification.
+Note: By checking one of the boxes below you are certifying that your adjusted gross income or your household’s gross monthly income x 12 
+and size of your family qualify you for the Low-Income Certification.
+I qualify for the Low-Income Certification because my adjusted gross income for my household's size is equal to or less than the amount shown in 
+the table below.
+I qualify for the Low-Income Certification because my household's size and gross monthly income x 12 is equal to or less than the income shown in 
+the table below.
+IF YOU QUALIFY FOR THE LOW-INCOME CERTIFICATION DO NOT INCLUDE ANY PAYMENTS WITH YOUR OFFER. Generally these payments 
+will not be returned and will be applied to the tax liability in the best interest of the government.
+Size of family unit 48 contiguous states, D.C., and U.S. Territories Alaska Hawaii
+1 $39,900.00 $49,875.00 $45,900.00
+2 $54,100.00 $67,625.00 $62,225.00
+3 $68,300.00 $85,375.00 $78,550.00
+4 $82,500.00 $103,125.00 $94,875.00
+5 $96,700.00 $120,875.00 $111,200.00
+6 $110,900.00 $138,625.00 $127,525.00
+7 $125,100.00 $156,375.00 $143,850.00
+8 $139,300.00 $174,125.00 $160,175.00
+For each additional person, add $14,200.00 $17,750.00 $16,325.00
+Business Information (Form 1120, 1065, etc., filers)
+Business Tax Periods (If Your Offer is for Business Tax Debt Only) List all years/periods owed
+Form 1120 U.S. Corporate Income Tax Return [e.g., 12-31-2023]
+Form 941 Employer's Quarterly Federal Tax Return [e.g., 03-31-2023]
+Form 940 Employer's Annual Federal Unemployment (FUTA) Tax Return [e.g., 12-31-2023]
+Other Federal Tax(es) [specify type(s) and period(s)] 
+Note:  If you need more space, use attachment and title it “Attachment to Form 656 dated                                   .” Make sure to sign and date the  
+attachment. 
+Section 2
+If your business is a Corporation, Partnership, LLC, or LLP and you want to compromise those tax debts, you must complete this section. You must also 
+include all required documentation including the Form 433-B (OIC). The $205 application fee and initial payment must be paid at the time you are 
+submitting your offer.
+Business name
+Business physical address (street, city, state, ZIP code) 
+Business mailing address (street, city, state, ZIP code)
+Is this a new address since your last filed tax return Yes No
+If yes, would you like us to update our records to this address Yes No
+Employer Identification Number 
+(EIN)
+Name and title of primary contact Telephone number
+Catalog Number 16728N www.irs.gov Form 656 (Rev. 4-2026) 
+Section 3 Reason for Offer
+Select only ONE of the three check boxes below. 
+Doubt as to Collectibility - I do not have enough in assets and income to pay my full tax liability. I have offered the minimum offer amount 
+calculated on Form 433-A(OIC) and/or Form 433-B(OIC).
+Note: If you have special circumstances which would prevent you from paying the minimum offer amount calculated on Form 433-A (OIC) due to 
+economic hardship, attach a detailed explanation.
+Effective Tax Administration - Economic Hardship - I owe this tax liability and have enough in assets and income to pay my liability in full. Due 
+to my special circumstances, requiring full payment would cause an economic hardship. (Only individuals qualify for this consideration). Attach a 
+detailed explanation.
+Effective Tax Administration - Public Policy or Equity - I owe this tax liability and have enough in assets and income to pay my liability in full. 
+Due to my exceptional circumstances, collection of the full liability would undermine public confidence that the tax laws are being administered in an 
+equitable manner. Example: A payroll service provider misappropriated taxes withheld from my employees. Attach a detailed explanation.
+Section 4 Payment Terms 
+Check only one of the payment options below to indicate how long it will take you to pay your offer in full. You must  
+offer more than $0. The offer amount should be in whole dollars only.
+Lump Sum
+Check here if you will pay your offer in 5 or fewer payments within 5 or fewer months from the date of acceptance: 
+Submit payment of 20% of the offer amount (waived if you met the requirements for Low-Income Certification) and fill in the amount(s) of your 
+future payment(s). Payment may be made electronically through the Electronic Federal Payment System or Individual Online Account. If not made 
+electronically enclose a personal check, cashier's check, or money order with your offer.
+Total offer amount - 20% initial payment = Remaining balance 
+$ - $ = $ 
+You may pay the remaining balance in one payment after acceptance of the offer or up to five payments, but cannot exceed 5 
+months.       
+Amount of payment      $ payable within Month after acceptance
+Amount of payment      $ payable within Months after acceptance
+Amount of payment      $ payable within Months after acceptance
+Amount of payment      $ payable within Months after acceptance
+Amount of payment      $ payable within Months after acceptance
+You must continue to make these monthly payments while the IRS is considering the offer (waived if you met the requirements for Low-
+Income Certification). Failure to make regular monthly payments until you have received a final decision letter will cause your offer to be 
+returned with no appeal rights. If you qualified under the Low-Income Certification and are not required to submit payments while the 
+offer is under consideration, your first payment will be due 30 calendar days after acceptance of the offer, unless another date is agreed 
+to in an amended offer.  
+Periodic Payment 
+Check here if you will pay your offer in full in 6 to 24 months
+Enter the amount of your offer $ 
+Note: The total months may not exceed a total of 24. For example, if you are requesting your payments extend for 24 months then your 
+first payment is considered to be month 1 and your last payment is considered month 24. There will be 22 payments between the first 
+and last month. 
+Make your first month's payment through the Electronic Federal Payment System or Individual Online Account. If not made electronically, enclose 
+a personal check, cashier's check, or money order with your offer for the first month's payment (waived if you met the requirements for Low-
+Income Certification).
+The first monthly payment of $ is included with this offer then $  will be paid on the (pick number 1-28)
+day of each month thereafter for  months with a final payment of $  to be paid on the  day of the
+ month.
+Page 3 
+Catalog Number 16728N www.irs.gov Form 656 (Rev. 4-2026) 
+Page 4 
+Section 5 Designation of Payment and Electronic Federal Tax Payment System (EFTPS)
+Designation of Payment
+If you want the IRS to apply your payment to a specific tax year and a specific tax debt, such as employment taxes or a Trust Fund Recovery
+Penalty, tell us the tax period/quarter . If you are not specific with your designation we will apply any money you send to the  
+government's best interest. If you want to designate any future payments not included with this Form 656 while the offer is pending [see section 7(j) 
+below] with the IRS, you must include the specific tax year and type of tax at the time each payment is made. However, you cannot designate the 
+application fee or any payment after the IRS accepts the offer.
+Note: Payments submitted with your offer cannot be designated as estimated tax payments for a current or past tax year. 
+List offer payments made through the Electronic Federal Tax Payment System (EFTPS) or via the Individual Online Account (IOLA) below.
+Note: Any offer application fee or initial payment made electronically must be made the same date your offer is mailed or filed through 
+Individual Online Account. 
+Section 6 Source of Funds, Making Your Payment, Filing Requirements, and Tax Payment Requirements
+Source of Funds
+Tell us where you will obtain the funds to pay your offer
+Making Your Payment
+Make separate payments for the initial offer payment and application fee. 
+You may make payments electronically through the Electronic Federal Tax Payment System (EFTPS). Individual taxpayers may make payments 
+via their Individual Online Account (IOLA). If you are unable to make your required payments through EFTPS or IOLA, you may pay by personal 
+check, cashier's check, or money order. Make checks payable to the “United States Treasury” and attach the payment to the front of your Form 
+656, Offer in Compromise. All payments must be in U.S. dollars. Do not send cash. Pay a separate application fee with each offer; do not combine 
+it with any other tax payments, as this may delay processing of your offer. Your offer will be returned to you if the application fee and the required 
+payment are not made at the time your offer is submitted, or if your payment is returned for insufficient funds. 
+Filing Requirements
+I have filed all required tax returns and have included a complete copy of any tax return filed within 10 weeks of this offer submission
+I was not required to file a tax return for the following years
+Note: Do not include original tax returns with your offer. If you send a copy of a tax return already filed, clearly mark it as a copy. You 
+must either electronically file your tax return or mail it to the appropriate IRS processing office before sending in your offer. 
+Tax Payment Requirements (check all that apply) 
+I have made all required estimated tax payments for the current tax year
+I am not required to make any estimated tax payments for the current tax year
+I have made all required federal tax deposits for the current quarter and two preceding quarters
+I am not required to make any federal tax deposits for the current quarter and two preceding quarters
+Offer application fee
+Electronic funds transfer number (15 digits)DateOffer payment
+Date Electronic funds transfer number (15 digits)
+Section 7 Offer Terms 
+By submitting this offer, I have read, understand and agree to the following terms and conditions: 
+Terms, Conditions, and Legal 
+Agreement 
+a) I request that the IRS accept the offer amount listed in this offer application as payment of my outstanding tax 
+debt arising under Title 26 (including interest, penalties, and any additional amounts required by law) as of the 
+date listed on this form. I authorize the IRS to amend Section 1 or Section 2 if I failed to list any of my assessed 
+tax debt or tax debt assessed before acceptance of my offer. By submitting a joint offer, both signers grant 
+approval to the Internal Revenue Service to disclose the existence of any separate liabilities owed.
+b) I also authorize the IRS to amend Section 1 or Section 2 by removing any tax years on which there is currently 
+no outstanding liability. I understand that my offer will be accepted, by law, unless the IRS notifies me otherwise, 
+in writing, within 24 months of the date my offer was received by our IRS centralized offer in compromise unit, 
+located in  Memphis/Brookhaven. See mailing instructions on page 29 of Form 656-B for offers that are mailed. 
+Individual taxpayers may file offers through Individual Online Account (IOLA). The 24-month period for a deemed 
+acceptance will not begin to run until the correct site receives the offer. I also understand that if any tax debt that 
+is included in the offer is in dispute in any judicial proceeding that tax debt will not be included in determining the 
+expiration of the 24-month period. I instruct the IRS to disregard any period on my Form 656 for court ordered 
+restitution or under the jurisdiction of the Department of Justice.
+Catalog Number 16728N www.irs.gov Form 656 (Rev. 4-2026) 
+Page 5 
+Section 7 (Continued) Offer Terms 
+c) I voluntarily submit the payments made on this offer and understand that they will not be returned even if I 
+withdraw the offer or the IRS rejects or returns the offer. Unless I designate how to apply each required payment 
+in Section 5, the IRS will apply my payment in the best interest of the government, choosing which tax years and 
+tax debts to pay off. The IRS will also keep my application fee unless the offer is not accepted for processing. 
+IRS will keep my payments, 
+fees, and some refunds. 
+d) I understand that if I checked the Low-Income Certification in Section 1, then no payments are required until my 
+offer is accepted. If I qualify for the Low-Income Certification and voluntarily submit payments, all money will be 
+applied to my tax debt and will not be returned to me.
+e) Treas. Reg. section 301.7122-1(e)(5) states, in part, that acceptance of an offer in compromise will 
+conclusively settle the liability for the tax periods specified in the offer. To enforce the regulation as a contract 
+term, I agree that I cannot file an amended return for the tax years listed on Form 656 after the offer is accepted. 
+Further, I agree that I will not file an amended return for the tax years listed on Form 656 after I have submitted 
+my offer and while my offer remains pending [see section 7(j) below] with the Service. The filing of the amended 
+return could be considered grounds for termination. In addition, any refunds related to an amended return filed for 
+a tax year which has an ending date prior to offer acceptance will be offset to the tax liability. If I receive a refund 
+prior to offer acceptance, or based on an amended return for any tax periods extending to the date my offer is 
+accepted, I will return the refund within 30 days of receiving the refund. The IRS will keep any refund, including 
+interest, that I might be due for tax assessed before the date the IRS accepts my offer. Systemic offset of 
+overpayments will continue in accordance with IRC 6402(a) prior to the offer acceptance date. I understand that 
+my tax refund may be offset to the tax liability while the offer is pending, but that assistance could be available for 
+taxpayers (other than businesses) facing an economic hardship.
+f) I understand that the amount I am offering may not include part or all of an expected or current tax refund, 
+money already paid, funds attached by any collection action, or anticipated benefits from a capital or net operating 
+loss.
+g) The IRS will keep any monies it has collected prior to this offer. Under section 6331(k), the IRS may levy on my 
+property and rights to property up to the time that the IRS official signs and acknowledges my offer as pending. 
+The IRS may keep any proceeds arising from such a levy. No levy will be issued on individual shared 
+responsibility payments. However, if the IRS served a continuous levy on wages, salary, or certain federal 
+payments under sections 6331(e) or (h), then the IRS could choose to either retain or release the levy.
+h) The IRS will keep any payments that I make related to this offer. I agree that any funds submitted with this offer 
+will be treated as a payment. I also agree that any funds submitted with periodic payments made after the 
+submission of this offer and prior to the acceptance, rejection, or return of this offer will be treated as payments.
+i) If my offer is accepted and my final payment is more than the agreed amount, the IRS will not return the 
+difference, but will apply the entire payment to my tax debt. 
+j) Once an authorized IRS official signs this form, my offer is considered pending as of that signature date and it 
+remains pending until the IRS accepts, rejects, or returns my offer, or I withdraw my offer. An offer is also 
+considered pending for 30 days after any rejection of my offer by the IRS, and during the time that any rejection of 
+my offer is being considered by the Appeals Office. An offer will be considered withdrawn when the IRS receives 
+my written notification of withdrawal by personal delivery or certified mail or when I inform the IRS of my 
+withdrawal by other means and the IRS acknowledges in writing my intent to withdraw the offer. For joint offers in 
+compromise, if one spouse withdraws the offer, the offer will be considered to be withdrawn.
+Pending status of an offer and 
+right to appeal 
+k) I waive the right to an Appeals hearing if I do not request a hearing in writing within 30 days of the date the IRS 
+notifies me of the decision to reject the offer.
+l) As both an express condition and as a contractual promise, I will strictly comply with all provisions of the internal 
+revenue laws, including requirements to timely file tax returns and timely pay taxes for the five year period 
+beginning with the date of acceptance of this offer and ending through the fifth year. I agree to promptly pay any 
+liabilities assessed after acceptance of this offer for tax years ending prior to acceptance of this offer that were not 
+otherwise identified in Section 1 or Section 2 of this agreement. I also understand that during the five year period I 
+cannot request an installment agreement for unpaid taxes incurred before or after the accepted offer. I understand 
+that I cannot request an offer for a tax liability during the five year period. If this is an offer being submitted for joint 
+tax debt, and one of us does not comply with future obligations, only the non-compliant taxpayer will be in default 
+of this agreement. An accepted offer will not be defaulted solely due to the assessment of an individual shared 
+responsibility payment. I understand failure to pay any restitution-based assessments will provide basis for the 
+default of my offer acceptance for administrative tax periods included on this Form 656.
+I must comply with my future 
+tax obligations and understand 
+I remain liable for the full 
+amount of my tax debt until all 
+terms and conditions of this 
+offer have  been met. 
+m) I agree that I will remain liable for the full amount of the tax liability, accrued penalties and interest, until I have 
+met all of the terms and conditions of this offer. Penalties and interest will continue to accrue until all payment 
+terms of the offer have been met. If I file for bankruptcy before the terms and conditions of the offer are met, I 
+agree that the IRS may file a claim for the full amount of the tax liability, accrued penalties and interest, and that 
+any claim the IRS files in the bankruptcy proceeding will be a tax claim.
+n) Once the IRS accepts my offer in writing, I have no right to challenge the tax debt(s) in court or by filing a 
+refund claim or refund suit for any liability or period listed in Section 1 or Section 2, even if the IRS defaults or 
+rescinds the offer.
+Catalog Number 16728N www.irs.gov Form 656 (Rev. 4-2026) 
+Page 6 
+Section 7 (Continued) Offer Terms 
+o) If I fail to meet any of the terms of this offer, the IRS may revoke the certificate of release of federal tax lien and 
+file a new notice of federal tax lien; levy or sue me to collect any amount ranging from  one or more missed 
+payments to the original amount of the tax debt (less payments made) plus penalties and interest that have 
+accrued from the time the underlying tax liability arose. The IRS will continue to add interest, as required by 
+section 6601 of the Internal Revenue Code, on the amount the IRS determines is due after default. I agree that if I 
+provide false information or documents in conjunction with this offer or conceal my assets or my ability to pay, 
+then the IRS may reopen my offer and exercise its discretion in the further treatment of the offer, including a 
+termination of the offer contract. If the IRS terminates my offer contract, I will be liable for the full amount of the 
+tax liability, accrued penalties and interest.
+I understand what will happen if 
+I fail to meet the terms of my 
+offer (e.g., default). 
+p) To have my offer considered, I agree to the extension of the time limit provided by law to assess my tax debt 
+(statutory period of assessment). I agree that the date by which the IRS must assess my tax debt will now be the 
+date by which my debt must currently be assessed plus the period of time my offer is pending plus one additional 
+year if the IRS rejects, returns, or terminates my offer or I withdraw it. (Paragraph (j) of this section defines 
+pending and withdrawal.) I understand that I have the right not to waive the statutory period of assessment or to 
+limit the waiver to a certain length or certain periods or issues. I understand, however, that the IRS may not 
+consider my offer if I refuse to waive the statutory period of assessment or if I provide only a limited waiver. I also 
+understand that the statutory period for collecting my tax debt will be suspended during the time my offer is 
+pending with the IRS, for 30 days after any rejection of my offer by the IRS, and during the time that any rejection 
+of my offer is being considered by the Independent Office of Appeals. By submitting this offer I immediately 
+withdraw any pending installment agreement that is on file for all tax periods and I understand a pending 
+installment agreement (an installment agreement that has been accepted for processing but the IRS has not 
+accepted its terms) will not be automatically reinstated after the offer is closed.
+I agree to waive time limits 
+provided by law. 
+q) The IRS may file a Notice of Federal Tax Lien during consideration of the offer or for offers that will be paid 
+over time. If the offer is accepted, the tax lien(s) for the periods and taxes listed in Section 1 will generally be 
+released within 45 days after the final payment has been received and verified. The time it takes to transfer funds 
+to the IRS from commercial institutions varies based on the form of payment. If I have not finished paying my offer 
+amount, then the IRS may be entitled to any proceeds from the sale of my property. The IRS will not file a Notice 
+of Federal Tax Lien on any individual shared responsibility debt.
+I understand the IRS may file a 
+Notice of Federal Tax Lien on 
+my property. 
+r) I authorize the IRS to correct any typographical or clerical errors or make minor modifications to my Form 656 
+that I signed in connection to this offer.
+Correction Agreement 
+s) By authorizing the IRS to contact third parties, I understand that I will not be notified of which third parties the 
+IRS contacts as part of the offer application process, including tax periods that have not been assessed, as stated 
+in  §7602 (c ) of the Internal Revenue Code. In addition, I authorize the IRS to request a consumer report on me 
+from a credit bureau. 
+I authorize the IRS to contact  
+relevant third parties in order to 
+process my offer. 
+t) I understand if the liability sought to be compromised is the joint and individual liability of myself and my co-
+obligor(s) and I am submitting this offer to compromise my individual liability only, then if this offer is accepted, it 
+does not release or discharge my co-obligor(s) from liability. The United States still reserves all rights of collection 
+against the co-obligor(s).
+I am submitting an offer as an 
+individual for a joint liability.
+u) If your offer includes any shared responsibility payment (SRP) amount that you owe for not having minimum 
+essential health coverage for you and, if applicable, your dependents per Internal Revenue Code Section 5000A  
+- Individual shared responsibility payment, it is not subject to penalties (except applicable bad check penalty) or to 
+lien and levy enforcement actions. However, interest will continue to accrue until you pay the total SRP balance 
+due. We may apply your federal tax refunds to the SRP amount that you owe until it is paid in full. 
+I understand the IRS Shared 
+Responsibility Payment (SRP).
+v) The IRS is required to make certain information, such as taxpayer name, city/state/zip, liability amount, and 
+offer terms, available for public inspection and review for one year after the date of offer acceptance.
+I understand the IRS is required 
+to make certain information 
+public.
+w) By sending and receiving encrypted messages through the IRS Secure Messaging platform, I agree to accept 
+offer final determination letters on this platform.
+Secure Messaging
+x) If I submit a joint offer in compromise, it will remain joint unless both my spouse and I submit amended 
+Forms 656.
+I understand that my joint offer 
+in compromise will remain joint.
+Catalog Number 16728N www.irs.gov Form 656 (Rev. 4-2026) 
+Page 7 
+Section 8 Signatures 
+Under penalties of perjury, I declare that I have examined this offer, including accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct and complete. 
+Signature of Taxpayer/Corporation Name Phone number Today's date (mm/dd/yyyy) 
+By checking this box you are authorizing the IRS to contact you at the telephone number listed above and leave detailed messages concerning 
+this offer on your voice mail or answering machine.
+Signature of Spouse/Authorized Corporate Officer Phone number Today's date (mm/dd/yyyy) 
+By checking this box you are authorizing the IRS to contact you at the telephone number listed above and leave detailed messages concerning 
+this offer on your voice mail or answering machine.
+Section 9 Paid Preparer Use Only 
+Signature of Preparer Phone number Today's date (mm/dd/yyyy) 
+By checking this box you are authorizing the IRS to contact you at the telephone number listed above and leave detailed messages concerning 
+this offer on your voice mail or answering machine. 
+Name of Paid Preparer Preparer's CAF no. or PTIN 
+Firm's name (or yours if self-employed), address, and ZIP code 
+If you would like to have someone represent you during the offer investigation, attach a valid, signed Form 2848 with this application or a 
+copy of a previously filed form. Form 2848 allows for representation and receipt of confidential information. You should also include the 
+current tax year on the form, in the list of applicable years or periods. 
+We ask for the information on this form to carry out the internal revenue laws of the United States. Our authority to request this information is section § 
+7801 of the Internal Revenue Code.  
+Our purpose for requesting the information is to determine if it is in the best interests of the IRS to accept an offer. You are not required to make an offer; 
+however, if you choose to do so, you must provide all of the taxpayer information requested. Failure to provide all of the information may prevent us from 
+processing your request. 
+If you are a paid preparer and you prepared the Form 656 for the taxpayer submitting an offer, we request that you complete and sign Section 9 on Form 
+656, and provide identifying information. Providing this information is voluntary. This information will be used to administer and enforce the internal 
+revenue laws of the United States and may be used to regulate practice before the Internal Revenue Service for those persons subject to Treasury 
+Department Circular No. 230, Regulations Governing the Practice of Attorneys, Certified Public Accountants, Enrolled Agents, Enrolled Actuaries, and 
+Appraisers before the Internal Revenue Service. Information on this form may be disclosed to the Department of Justice for civil and criminal litigation. 
+We may also disclose this information to cities, states and the District of Columbia for use in administering their tax laws and to combat terrorism. 
+Providing false or fraudulent information on this form may subject you to criminal prosecution and penalties. 
+Privacy Act Statement
+Form 8821 allows a third party to receive confidential information but they cannot represent you before the IRS in a Collection matter. If you 
+would like a third party to receive confidential information on your behalf attach a copy if previously filed and include the current tax year on 
+the form.
+IRS Use Only. I accept the waiver of the statutory period of limitations on assessment for the Internal Revenue Service, as described in Section 7(p). 
+Signature of Authorized Internal Revenue Service Official Title Date (mm/dd/yyyy) 
+
+APPLICATION CHECKLIST
+Review the entire application using the Application Checklist below. Include this checklist with your application. 
+Forms 433-A (OIC), 433-B (OIC), and 656 
+Did you make an offer amount that is equal to the offer amount calculated on the Form 433-A (OIC) or Form 433-B 
+(OIC)? If not, did you describe the  special circumstances that are leading you to offer less than the minimum in 
+Section 3, Reason for Offer, of Form 656, and did you provide supporting documentation of the special circumstances
+Have you filed all required tax returns and received a bill or notice of balance due
+Did you include a complete copy of any tax return filed within 10 weeks of this offer submission
+Did you select a payment option on Form 656
+Did you sign and attach the Form 433-A (OIC), if applicable
+Did you sign and attach the Form 433-B (OIC), if applicable
+Did you sign and attach the Form 656
+If you are making an offer that includes business and individual tax debts, did you prepare a separate Form 656 
+package (including separate financial statements, supporting documentation, application fee, and initial payment)
+Supporting documentation and additional forms 
+Did you include photocopies of all required supporting documentation
+If you want a third party to represent you and receive confidential information during the offer process, did you include 
+a Form 2848? If you want a third party to only receive confidential information on your behalf, did you include a valid 
+Form 8821? Does the authorization include the current tax year
+Did you provide a letter of testamentary or other verification of person(s) authorized to act on behalf of the estate or 
+deceased individual
+Did you make your initial payment  electronically through the Electronic Federal Payment System or your Individual 
+Online Account? If not, did you enclose a check or money order made payable to the "United States Treasury" for the 
+initial payment? (Waived if you meet Low-Income  Certification guidelines—see Form 656)
+Did you pay the application fee electronically through the Electronic Federal Payment System or your Individual 
+Online Account? If not, did you enclose a check or money order made payable to the "United States Treasury" for the 
+application fee? (Waived if you meet Low-Income Certification guidelines—see Form 656) 
+If you reside in: Mail your application to:
+AL, AZ, CA, CO, GA, HI, ID, KY, LA, MD, MS, ND, 
+NM, NV, OK, OR, SD, TN, TX, UT, VA, WA
+Memphis IRS Center COIC Unit 
+P.O. Box 30803, AMC 
+Memphis, TN 38130-0803 
+844-398-5025
+AK, AR, CT, DC, DE, FL, IA, IL, IN, KS, MA, ME, MI, 
+MN, MO, MT, NC, NE, NH, NJ, NY, OH, PA, PR, RI, 
+SC, VT, WI, WV, WY, or a foreign address
+Brookhaven IRS Center COIC Unit 
+P.O. Box 9007 
+Holtsville, NY 11742-9007 
+844-805-4980
+29
+Reminder: Individual taxpayers may file their offer electronically through their Individual Online Account (IOLA). 
+Taxpayers may use IOLA to check their eligibility, prepare all required forms, and make all necessary payments 
+electronically.
+Did you complete all fields and sign all forms
+Payment
+Send your application package to the appropriate IRS facility 
+Mail the Form 656, 433-A (OIC) and/or 433-B (OIC), and related financial document(s) to the appropriate IRS processing 
+office for your state. Note: If you already submitted your application online, do not mail a duplicate application to the IRS.
+Form 656-B (Rev. 4-2026) Catalog Number 52133W www.irs.gov Department of the Treasury - Internal Revenue Service

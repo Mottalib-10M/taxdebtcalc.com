@@ -1,0 +1,64 @@
+
+A federal tax lien is the government’s legal claim against your property when you neglect or fail to pay a tax debt. The lien protects the government’s interest in all your property, including real estate, personal property and financial assets. A federal tax lien exists after:
+The IRS:
+Puts your balance due on the books (assesses your liability);
+Sends you a bill that explains how much you owe (Notice and Demand for Payment); and
+You:
+Neglect or refuse to fully pay the debt in time.
+The IRS files a public document, the Notice of Federal Tax Lien , to alert creditors that the government has a legal right to your property. For more information, refer to Publication 594, The IRS Collection Process PDF .
+How to get rid of a lien
+How a lien affects you
+Avoid a lien
+Lien vs. levy
+Help resources
+How to get rid of a lien
+Paying your tax debt - in full - is the best way to get rid of a federal tax lien. The IRS releases your lien within 30 days after you have paid your tax debt.
+When conditions are in the best interest of both the government and the taxpayer, other options for reducing the impact of a lien exist.
+Discharge of property
+A "discharge" removes the lien from specific property. There are several Internal Revenue Code (IRC) provisions that determine eligibility. For more information, refer to Publication 783, Instructions on How to Apply for Certificate of Discharge From Federal Tax Lien PDF .
+Subordination
+"Subordination" does not remove the lien but allows other creditors to move ahead of the IRS, which may make it easier to get a loan or mortgage. To determine eligibility, refer to Publication 784, Instructions on How to Apply for a Certificate of Subordination of Federal Tax Lien PDF .
+Withdrawal
+A "withdrawal" removes the public Notice of Federal Tax Lien and assures that the IRS is not competing with other creditors for your property; however, you are still liable for the amount due. For eligibility, refer to Form 12277, Application for the Withdrawal of Filed Form 668(Y), Notice of Federal Tax Lien (Internal Revenue Code Section 6323(j)) PDF .
+Two additional Withdrawal options resulted from the Commissioner’s 2011 Fresh Start initiative.
+One option may allow withdrawal of your Notice of Federal Tax Lien after the lien’s release. General eligibility includes:
+Your tax liability has been satisfied and your lien has been released; and also:
+You are in compliance for the past three years in filing - all individual returns, business returns, and information returns;
+You are current on your estimated tax payments and federal tax deposits, as applicable.
+The other option may allow withdrawal of your Notice of Federal Tax Lien if you have entered in or converted your regular installment agreement to a Direct Debit installment agreement. General eligibility includes:
+You are a qualifying taxpayer (i.e. individuals, businesses with income tax liability only, and out of business entities with any type of tax debt)
+You owe $25,000 or less (If you owe more than $25,000, you may pay down the balance to $25,000 prior to requesting withdrawal of the Notice of Federal Tax Lien)
+Your Direct Debit Installment Agreement must full pay the amount you owe within 60 months or before the Collection Statute expires, whichever is earlier
+You are in full compliance with other filing and payment requirements
+You have made three consecutive direct debit payments
+You can’t have defaulted on your current, or any previous, Direct Debit Installment agreement.
+How a lien affects you
+Assets — A lien attaches to all of your assets (such as property, securities, vehicles) and to future assets acquired during the duration of the lien.
+Credit — Once the IRS files a Notice of Federal Tax Lien, it may limit your ability to get credit.
+Business — The lien attaches to all business property and to all rights to business property, including accounts receivable.
+Bankruptcy — If you file for bankruptcy, your tax debt, lien, and Notice of Federal Tax Lien may continue after the bankruptcy.
+Avoid a lien
+You can avoid a federal tax lien by simply filing and paying all your taxes in full and on time. If you can’t file or pay on time, don’t ignore the letters or correspondence you get from the IRS. If you can’t pay the full amount you owe, payment options are available to help you settle your tax debt over time.
+Lien vs. levy
+A lien is not a levy. A lien secures the government’s interest in your property when you don’t pay your tax debt. A levy actually takes the property to pay the tax debt. If you don’t pay or make arrangements to settle your tax debt, the IRS can levy, seize and sell any type of real or personal property that you own or have an interest in.
+Help resources
+Centralized Lien Operation — To resolve basic and routine lien issues: verify a lien, request lien payoff amount, or release a lien, call 800-913-6050 or e-fax 855-390-3530.
+Collection Advisory Group — For all complex lien issues, including discharge, subordination, subrogation or withdrawal; find contact information for your local advisory office in Publication 4235, Collection Advisory Group Addresses PDF .
+Office of Appeals — Under certain circumstances you may be able to appeal the filing of a Notice of Federal Tax Lien. For more information, see Publication 1660, Collection Appeal Rights PDF .
+Taxpayer Advocate Service — For assistance and guidance from an independent organization within IRS, call 877-777-4778 .
+Centralized Insolvency Operation — If you are questioning whether your bankruptcy has changed your tax debt, call 800-973-0424 .
+Contact the IRS
+Individuals (self-employed) 800-829-8374
+Individuals (other) 800-829-0922
+Businesses 800-829-0922
+Related
+Collection process for taxpayers filing and or paying late
+Filing past due tax returns
+Publications
+Publication 783, Instructions on How to Apply for Certificate of Discharge from Federal Tax Lien
+Publication 784, Instructions on How to Apply for a Certificate of Subordination of Federal Tax Lien
+Publication 1024, How to Prepare Application for Certificate of Nonattachment of Federal Tax Lien
+Publication 1450, Instructions for Requesting a Certificate of Release of Federal Tax Lien
+Publication 1468, Guidelines for Notices of Federal Tax Liens and Centralized Lien Processing
+Publication 1660, Collection Appeal Rights
+Publication 4235, Collection Advisory Offices Contact Information

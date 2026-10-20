@@ -1,0 +1,102 @@
+
+Disclaimer: IRS Collection Financial Standards are intended for use in calculating repayment of delinquent taxes. These Standards are effective on June 29, 2026, for purposes of federal tax administration only. Expense information for use in bankruptcy calculations can be found on the website for the U.S. Trustee Program .
+Download the transportation standards PDF in PDF format for printing. Please note that the standard amounts change, so if you elect to print them, check back periodically to assure you have the latest version.
+The transportation standards for taxpayers with a vehicle consist of two parts: nationwide figures for monthly loan or lease payments referred to as ownership costs, and additional amounts for monthly operating costs. The operating costs include maintenance, repairs, insurance, fuel, registrations, licenses, inspections, parking and tolls (These standard amounts do not include personal property taxes).
+Ownership costs
+The ownership costs, shown in the table below, provide the monthly allowances for the lease or purchase of up to two automobiles. A single taxpayer is normally allowed one automobile. For each automobile, taxpayers will be allowed the lesser of:
+the monthly payment on the lease or car loan, or
+the ownership costs shown in the table below.
+If a taxpayer has no lease or car loan payment, the amount allowed for ownership costs will be $0.
+Operating costs
+In addition to ownership costs, a taxpayer is allowed operating costs, by regional and metropolitan area, as shown in the table below. For each automobile, taxpayers will be allowed the lesser of:
+the amount actually spent monthly for operating costs, or
+the operating costs shown in the table below.
+Public transportation
+There is a single nationwide allowance for public transportation based on Bureau of Labor Statistics expenditure data for mass transit fares for a train, bus, taxi, ferry, etc. Taxpayers with no vehicle are allowed the standard amount monthly, per household, without questioning the amount actually spent.
+If a taxpayer owns a vehicle and uses public transportation, expenses may be allowed for both, provided they are needed for the health and welfare of the taxpayer or family, or for the production of income. However, the expenses allowed would be actual expenses incurred for ownership costs, operating costs and public transportation, or the standard amounts, whichever is less.
+If the amount claimed for ownership costs, operating costs or public transportation is more than the total allowed by the transportation standards, the taxpayer must provide documentation to substantiate those expenses are necessary living expenses.
+Public transportation Location Allowed amount
+National $220
+Ownership costs Location One car Two cars
+National $703 $1,406
+Northeast region operating costs Location One car Two cars
+Northeast region $330 $660
+Boston $347 $694
+New York $417 $834
+Philadelphia $344 $688
+Midwest region operating costs Location One car Two cars
+Midwest region $263 $526
+Chicago $334 $668
+Cleveland $263 $526
+Detroit $344 $688
+Minneapolis-St. Paul $260 $520
+St. Louis $269 $538
+South region operating costs Location One car Two cars
+South region $291 $582
+Atlanta $319 $638
+Baltimore $299 $598
+Dallas-Ft. Worth $339 $678
+Houston $361 $722
+Miami $423 $846
+Tampa $320 $640
+Washington, D.C. $301 $602
+West Region Operating Costs Location One car Two cars
+West region $299 $598
+Anchorage $248 $496
+Denver $332 $664
+Honolulu $279 $558
+Los Angeles $365 $730
+Phoenix $348 $696
+San Diego $349 $698
+San Francisco $355 $710
+Seattle $288 $576
+For use with 20265 allowable transportation table
+The data for the operating costs section of the transportation standards are provided by Census Region and Metropolitan Statistical Area (MSA). The following table lists the states that comprise each Census Region. Once the taxpayer’s Census Region has been ascertained, to determine if an MSA standard is applicable, use the definitions below to see if the taxpayer lives within an MSA (MSAs are defined by county and city, where applicable). If the taxpayer does not reside in an MSA, use the regional standard.
+MSA definitions by census region
+Northeast Census Region: Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Pennsylvania, New York, New Jersey
+MSA Counties
+Boston MA: Essex, Middlesex, Norfolk, Plymouth, Suffolk
+NH: Rockingham, Strafford
+New York NY: Bronx, Kings, Nassau, New York, Putnam, Queens, Richmond, Rockland, Suffolk, Westchester
+NJ: Bergen, Essex, Hudson, Hunterdon, Middlesex, Monmouth, Morris, Ocean, Passaic, Somerset, Sussex, Union
+Philadelphia PA: Bucks, Chester, Delaware, Montgomery, Philadelphia
+NJ: Burlington, Camden, Gloucester, Salem
+DE: New Castle
+MD: Cecil
+Midwest Census Region : North Dakota, South Dakota, Nebraska, Kansas, Missouri, Illinois, Indiana, Ohio, Michigan, Wisconsin, Minnesota, Iowa
+MSA Counties (unless otherwise specified)
+Chicago IL: Cook, DeKalb, DuPage, Grundy, Kane, Kendall, Lake, McHenry, Will
+IN: Jasper, Lake, Newton, Porter
+Cleveland OH: Ashtabula, Cuyahoga, Geauga, Lake, Lorain, Medina
+Detroit MI: Lapeer, Livingston, Macomb, Oakland, St. Clair, Wayne
+Minneapolis-St. Paul MN: Anoka, Carver, Chisago, Dakota, Hennepin, Isanti, Le Sueur, Mille Lacs, Ramsey, Scott, Sherburne, Washington, Wright
+WI: Pierce, St. Croix
+St. Louis MO: Franklin, Jefferson, Lincoln, St. Charles, St. Louis County, Warren, St. Louis city, Crawford
+IL: Bond, Calhoun, Clinton, Jersey, Macoupin, Madison, Monroe, St. Clair
+South Census Region: Texas, Oklahoma, Arkansas, Louisiana, Mississippi, Tennessee, Kentucky, West Virginia, Virginia, Maryland, District of Columbia, Delaware, North Carolina, South Carolina, Georgia, Florida, Alabama
+MSA Counties (unless otherwise specified)
+Atlanta GA: Barrow, Bartow, Butts, Carroll, Cherokee, Clayton, Cobb, Coweta, Dawson, DeKalb, Douglas, Fayette, Forsyth, Fulton, Gwinnett, Haralson, Heard, Henry, Jasper, Lumpkin, Meriwether, Morgan, Newton, Paulding, Pickens, Pike, Rockdale, Spalding, Walton
+Baltimore MD: Anne Arundel, Baltimore county, Carroll, Harford, Howard, Queen Anne’s, Baltimore city
+Dallas-Ft. Worth TX: Collin, Dallas, Denton, Ellis, Hunt, Johnson, Kaufman, Parker, Rockwall, Tarrant, Wise
+Houston TX: Austin, Brazoria, Chambers, Fort Bend, Galveston, Harris, Liberty, Montgomery, San Jacinto, Waller
+Miami FL: Broward, Miami-Dade, Palm Beach
+Tampa FL: Hernando, Hillsborough, Pasco, Pinellas
+Washington, D.C. DC: District of Columbia
+MD: Charles, Frederick, Montgomery, Prince George
+VA: Arlington, Clarke, Culpeper, Fairfax county, Fauquier, Loudoun, Prince William, Rappahannock, Spotsylvania, Stafford, Warren, Alexandria city, Fairfax city, Falls Church city, Fredericksburg city, Manassas city, Manassas Park city
+WV: Jefferson
+West Census Region: New Mexico, Arizona, Colorado, Wyoming, Montana, Nevada, Utah, Washington, Oregon, Idaho, California, Alaska, Hawaii
+MSA Counties (unless otherwise specified)
+Anchorage AK: Anchorage, Matanuska-Susitna
+Denver CO: Adams, Arapahoe, Broomfield, Clear Creek, Denver, Douglas, Elbert, Gilpin, Jefferson, Park
+Honolulu HI: Honolulu
+Los Angeles CA: Los Angeles, Orange
+Phoenix AZ: Maricopa, Pinal
+San Diego CA: San Diego
+San Francisco CA: Alameda, Contra Costa, Marin, San Francisco, San Mateo
+Seattle WA: King, Pierce, Snohomish
+For the 2019-2024 ALE updates, BLS used the same MSA definitions for their CES data as they had used for the prior year’s CES data. No MSA definition updates are necessary for these years’ ALE.
+For the 2025 version ALE, BLS made numerous changes to their CES MSA definitions in accordance with the new OMB guidance. The following MSA’s had changes: New York, Chicago, Cleveland, Minneapolis, St. Louis, Atlanta, Dallas, Houston, Washington D.C., and Los Angeles.
+For the 2026 version, there were no changes to the MSA definitions.
+Related
+Collection financial standards

@@ -1,0 +1,713 @@
+{
+ "meta": {
+  "retrieved_at": "2026-10-20",
+  "valid_from": "2026-01-01",
+  "valid_to": "2026-12-31",
+  "source": "irs.gov pages, forms and publications listed in sources"
+ },
+ "interest": {
+  "rates": {
+   "2017-Q1": 0.04,
+   "2017-Q2": 0.04,
+   "2017-Q3": 0.04,
+   "2017-Q4": 0.04,
+   "2018-Q1": 0.04,
+   "2018-Q2": 0.05,
+   "2018-Q3": 0.05,
+   "2018-Q4": 0.05,
+   "2019-Q1": 0.06,
+   "2019-Q2": 0.06,
+   "2019-Q3": 0.05,
+   "2019-Q4": 0.05,
+   "2020-Q1": 0.05,
+   "2020-Q2": 0.05,
+   "2020-Q3": 0.03,
+   "2020-Q4": 0.03,
+   "2021-Q1": 0.03,
+   "2021-Q2": 0.03,
+   "2021-Q3": 0.03,
+   "2021-Q4": 0.03,
+   "2022-Q1": 0.03,
+   "2022-Q2": 0.04,
+   "2022-Q3": 0.05,
+   "2022-Q4": 0.06,
+   "2023-Q1": 0.07,
+   "2023-Q2": 0.07,
+   "2023-Q3": 0.07,
+   "2023-Q4": 0.08,
+   "2024-Q1": 0.08,
+   "2024-Q2": 0.08,
+   "2024-Q3": 0.08,
+   "2024-Q4": 0.08,
+   "2025-Q1": 0.07,
+   "2025-Q2": 0.07,
+   "2025-Q3": 0.07,
+   "2025-Q4": 0.07,
+   "2026-Q1": 0.07,
+   "2026-Q2": 0.06,
+   "2026-Q3": 0.07,
+   "2026-Q4": 0.07
+  },
+  "current": "2026-Q4",
+  "currentRate": 0.07,
+  "nextQuarter": {
+   "id": "2027-Q1",
+   "status": "upcoming",
+   "expected": "announced by the IRS in November 2026, set at the federal short-term rate plus 3 points (IRC 6621)"
+  },
+  "compounding": "daily"
+ },
+ "ftf": {
+  "monthly": 0.05,
+  "max": 0.25,
+  "minimumAfterDays": 60,
+  "minimum": [
+   {
+    "dueFrom": "2009-01-01",
+    "amount": 135.0
+   },
+   {
+    "dueFrom": "2016-01-01",
+    "amount": 205.0
+   },
+   {
+    "dueFrom": "2018-01-01",
+    "amount": 210.0
+   },
+   {
+    "dueFrom": "2020-01-01",
+    "amount": 435.0
+   },
+   {
+    "dueFrom": "2023-01-01",
+    "amount": 450.0
+   },
+   {
+    "dueFrom": "2024-01-01",
+    "amount": 485.0
+   },
+   {
+    "dueFrom": "2025-01-01",
+    "amount": 510.0
+   },
+   {
+    "dueFrom": "2026-01-01",
+    "amount": 525.0
+   }
+  ]
+ },
+ "ftp": {
+  "monthly": 0.005,
+  "withPlan": 0.0025,
+  "afterLevyNotice": 0.01,
+  "max": 0.25,
+  "noticeDays": 21,
+  "noticeDaysLarge": 10,
+  "largeAmount": 100000
+ },
+ "plans": {
+  "shortTermDays": 180,
+  "shortTermMax": 100000,
+  "onlineLongTermMax": 50000,
+  "simpleMax": 50000,
+  "simpleTrustFundMax": 25000,
+  "guaranteedMaxTax": 10000,
+  "guaranteedYears": 3,
+  "csedYears": 10,
+  "fees": {
+   "ddiaOnline": 29,
+   "ddiaOther": 107,
+   "ddiaLowIncome": 0,
+   "otherOnline": 69,
+   "otherOther": 178,
+   "otherLowIncome": 43,
+   "reviseOnline": 6,
+   "reviseOther": 89
+  },
+  "lowIncomePovertyMultiple": 2.5
+ },
+ "oic": {
+  "fee": 205,
+  "lumpSumDeposit": 0.2,
+  "lumpSumMonths": 5,
+  "periodicMinMonths": 6,
+  "periodicMaxMonths": 24,
+  "multiplierLumpSum": 12,
+  "multiplierPeriodic": 24,
+  "quickSale": 0.8,
+  "bankAllowance": 1000,
+  "vehicleAllowance": 3450,
+  "personalEffects": 11980,
+  "complianceYears": 5,
+  "autoAcceptYears": 2,
+  "formRevision": "4-2026",
+  "lowIncome": {
+   "base": [
+    39900,
+    54100,
+    68300,
+    82500,
+    96700,
+    110900,
+    125100,
+    139300
+   ],
+   "add": 14200,
+   "alaska": [
+    49875,
+    67625,
+    85375,
+    103125,
+    120875,
+    138625,
+    156375,
+    174125
+   ],
+   "alaskaAdd": 17750,
+   "hawaii": [
+    45900,
+    62225,
+    78550,
+    94875,
+    111200,
+    127525,
+    143850,
+    160175
+   ],
+   "hawaiiAdd": 16325
+  }
+ },
+ "standards": {
+  "effective": "2026-06-29",
+  "national": {
+   "food": [
+    496,
+    893,
+    1073,
+    1278
+   ],
+   "housekeeping": [
+    44,
+    85,
+    94,
+    95
+   ],
+   "apparel": [
+    98,
+    175,
+    211,
+    249
+   ],
+   "personalCare": [
+    54,
+    90,
+    104,
+    118
+   ],
+   "misc": [
+    175,
+    315,
+    375,
+    436
+   ],
+   "total": [
+    867,
+    1558,
+    1857,
+    2176
+   ],
+   "additionalPerson": 397
+  },
+  "health": {
+   "under65": 90,
+   "age65plus": 163
+  },
+  "transport": {
+   "public": 220,
+   "ownership": [
+    703,
+    1406
+   ],
+   "operating": {
+    "Northeast": [
+     330,
+     660
+    ],
+    "Boston": [
+     347,
+     694
+    ],
+    "New York": [
+     417,
+     834
+    ],
+    "Philadelphia": [
+     344,
+     688
+    ],
+    "Midwest": [
+     263,
+     526
+    ],
+    "Chicago": [
+     334,
+     668
+    ],
+    "Cleveland": [
+     263,
+     526
+    ],
+    "Detroit": [
+     344,
+     688
+    ],
+    "Minneapolis-St. Paul": [
+     260,
+     520
+    ],
+    "St. Louis": [
+     269,
+     538
+    ],
+    "South": [
+     291,
+     582
+    ],
+    "Atlanta": [
+     319,
+     638
+    ],
+    "Baltimore": [
+     299,
+     598
+    ],
+    "Dallas-Ft. Worth": [
+     339,
+     678
+    ],
+    "Houston": [
+     361,
+     722
+    ],
+    "Miami": [
+     423,
+     846
+    ],
+    "Tampa": [
+     320,
+     640
+    ],
+    "Washington, D.C.": [
+     301,
+     602
+    ],
+    "West": [
+     299,
+     598
+    ],
+    "Anchorage": [
+     248,
+     496
+    ],
+    "Denver": [
+     332,
+     664
+    ],
+    "Honolulu": [
+     279,
+     558
+    ],
+    "Los Angeles": [
+     365,
+     730
+    ],
+    "Phoenix": [
+     348,
+     696
+    ],
+    "San Diego": [
+     349,
+     698
+    ],
+    "San Francisco": [
+     355,
+     710
+    ],
+    "Seattle": [
+     288,
+     576
+    ]
+   },
+   "stateRegion": {
+    "Maine": "Northeast",
+    "New Hampshire": "Northeast",
+    "Vermont": "Northeast",
+    "Massachusetts": "Northeast",
+    "Rhode Island": "Northeast",
+    "Connecticut": "Northeast",
+    "Pennsylvania": "Northeast",
+    "New York": "Northeast",
+    "New Jersey": "Northeast",
+    "North Dakota": "Midwest",
+    "South Dakota": "Midwest",
+    "Nebraska": "Midwest",
+    "Kansas": "Midwest",
+    "Missouri": "Midwest",
+    "Illinois": "Midwest",
+    "Indiana": "Midwest",
+    "Ohio": "Midwest",
+    "Michigan": "Midwest",
+    "Wisconsin": "Midwest",
+    "Minnesota": "Midwest",
+    "Iowa": "Midwest",
+    "Texas": "South",
+    "Oklahoma": "South",
+    "Arkansas": "South",
+    "Louisiana": "South",
+    "Mississippi": "South",
+    "Tennessee": "South",
+    "Kentucky": "South",
+    "West Virginia": "South",
+    "Virginia": "South",
+    "Maryland": "South",
+    "District of Columbia": "South",
+    "Delaware": "South",
+    "North Carolina": "South",
+    "South Carolina": "South",
+    "Georgia": "South",
+    "Florida": "South",
+    "Alabama": "South",
+    "New Mexico": "West",
+    "Arizona": "West",
+    "Colorado": "West",
+    "Wyoming": "West",
+    "Montana": "West",
+    "Nevada": "West",
+    "Utah": "West",
+    "Washington": "West",
+    "Oregon": "West",
+    "Idaho": "West",
+    "California": "West",
+    "Alaska": "West",
+    "Hawaii": "West"
+   }
+  }
+ },
+ "levy": {
+  "year": 2026,
+  "standardDeduction": {
+   "single": 16100,
+   "mfj": 32200,
+   "hoh": 24150,
+   "mfs": 16100
+  },
+  "perDependent": 5300,
+  "additional": {
+   "unmarried": 2050,
+   "married": 1650
+  },
+  "periods": {
+   "daily": 260,
+   "weekly": 52,
+   "biweekly": 26,
+   "semimonthly": 24,
+   "monthly": 12
+  },
+  "examples": [
+   {
+    "status": "single",
+    "period": "weekly",
+    "deps": 3,
+    "exempt": 615.38
+   },
+   {
+    "status": "mfj",
+    "period": "biweekly",
+    "deps": 2,
+    "exempt": 1646.16
+   }
+  ]
+ },
+ "passport": {
+  "2018": 51000,
+  "2019": 52000,
+  "2020": 53000,
+  "2021": 54000,
+  "2022": 55000,
+  "2023": 59000,
+  "2024": 62000,
+  "2025": 64000,
+  "2026": 66000
+ },
+ "aep": {
+  "from": "summer 2026",
+  "firstTaxYear": 2025,
+  "lookbackYears": 3
+ },
+ "cp2000": {
+  "accuracyPenalty": 0.2,
+  "understatementShare": 0.1,
+  "understatementFloor": 5000
+ },
+ "sources": {
+  "cfs": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/collection-financial-standards",
+   "label": {
+    "en": "IRS, Collection Financial Standards (effective June 29, 2026)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "national": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/national-standards-food-clothing-and-other-items",
+   "label": {
+    "en": "IRS, National Standards: food, clothing and other items"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "health": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/national-standards-out-of-pocket-health-care",
+   "label": {
+    "en": "IRS, National Standards: out-of-pocket health care"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "housing": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/local-standards-housing-and-utilities",
+   "label": {
+    "en": "IRS, Local Standards: housing and utilities, by county"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "transport": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/local-standards-transportation",
+   "label": {
+    "en": "IRS, Local Standards: transportation"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "rates": {
+   "url": "https://www.irs.gov/payments/quarterly-interest-rates",
+   "label": {
+    "en": "IRS, Quarterly interest rates (underpayment rate by quarter)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "interest": {
+   "url": "https://www.irs.gov/payments/interest",
+   "label": {
+    "en": "IRS, Interest: when it is charged and how it stops"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "ftf": {
+   "url": "https://www.irs.gov/payments/failure-to-file-penalty",
+   "label": {
+    "en": "IRS, Failure to file penalty"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "ftp": {
+   "url": "https://www.irs.gov/payments/failure-to-pay-penalty",
+   "label": {
+    "en": "IRS, Failure to pay penalty"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc6651": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6651&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 6651, failure to file tax return or to pay tax"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc6621": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6621&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 6621, determination of rate of interest"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc6622": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6622&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 6622, interest compounded daily"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc6159": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6159&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 6159, agreements for payment of tax liability in installments"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc6502": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6502&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 6502, collection after assessment (10 years)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc7122": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7122&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 7122, compromises"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc6331": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6331&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 6331, levy and distraint"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc6662": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6662&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 6662, accuracy-related penalty"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "irc7345": {
+   "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7345&num=0&edition=prelim",
+   "label": {
+    "en": "26 U.S. Code § 7345, revocation or denial of passport"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "plans": {
+   "url": "https://www.irs.gov/payments/payment-plans-installment-agreements",
+   "label": {
+    "en": "IRS, Payment plans (installment agreements): costs and fees"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "simple": {
+   "url": "https://www.irs.gov/payments/simple-payment-plans-for-individuals-and-businesses",
+   "label": {
+    "en": "IRS, Simple Payment Plans for individuals and businesses"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "f9465": {
+   "url": "https://www.irs.gov/forms-pubs/about-form-9465",
+   "label": {
+    "en": "IRS, About Form 9465, Installment Agreement Request"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "oic": {
+   "url": "https://www.irs.gov/payments/offer-in-compromise",
+   "label": {
+    "en": "IRS, Offer in compromise"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "f656b": {
+   "url": "https://www.irs.gov/pub/irs-pdf/f656b.pdf",
+   "label": {
+    "en": "IRS, Form 656-B booklet with Form 656 and Form 433-A (OIC), Rev. 4-2026 (PDF)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "prequal": {
+   "url": "https://irs.treasury.gov/oic_pre_qualifier/",
+   "label": {
+    "en": "IRS, Offer in Compromise Pre-Qualifier tool"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "fta": {
+   "url": "https://www.irs.gov/payments/penalty-relief-due-to-first-time-abate-or-other-administrative-waiver",
+   "label": {
+    "en": "IRS, First Time Abate and the Automatic Exemption from Penalty"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "cnc": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/temporarily-delay-the-collection-process",
+   "label": {
+    "en": "IRS, Temporarily delay the collection process (currently not collectible)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "csed": {
+   "url": "https://www.irs.gov/filing/time-irs-can-collect-tax",
+   "label": {
+    "en": "IRS, Time IRS can collect tax (collection statute expiration date)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "lien": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/understanding-a-federal-tax-lien",
+   "label": {
+    "en": "IRS, Understanding a federal tax lien"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "levy": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-is-a-levy",
+   "label": {
+    "en": "IRS, What is a levy"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "p1494": {
+   "url": "https://www.irs.gov/pub/irs-pdf/p1494.pdf",
+   "label": {
+    "en": "IRS, Publication 1494 (Rev. 12-2025): amounts exempt from levy on wages in 2026 (PDF)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "p594": {
+   "url": "https://www.irs.gov/pub/irs-pdf/p594.pdf",
+   "label": {
+    "en": "IRS, Publication 594, The IRS collection process (PDF)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "passport": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/revocation-or-denial-of-passport-in-cases-of-certain-unpaid-taxes",
+   "label": {
+    "en": "IRS, Revocation or denial of passport for seriously delinquent tax debt"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "cp14": {
+   "url": "https://www.irs.gov/individuals/understanding-your-cp14-notice",
+   "label": {
+    "en": "IRS, Understanding your CP14 notice"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "cp504": {
+   "url": "https://www.irs.gov/individuals/understanding-your-cp504-notice",
+   "label": {
+    "en": "IRS, Understanding your CP504 notice"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "cp2000": {
+   "url": "https://www.irs.gov/individuals/understanding-your-cp2000-series-notice",
+   "label": {
+    "en": "IRS, Understanding your CP2000 series notice"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "taxdebt": {
+   "url": "https://www.irs.gov/payments/get-help-with-tax-debt",
+   "label": {
+    "en": "IRS, Get help with tax debt"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "tas": {
+   "url": "https://www.taxpayeradvocate.irs.gov/",
+   "label": {
+    "en": "Taxpayer Advocate Service (independent office within the IRS)"
+   },
+   "retrieved_at": "2026-10-20"
+  }
+ }
+}

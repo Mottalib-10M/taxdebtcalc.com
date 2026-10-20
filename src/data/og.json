@@ -1,0 +1,13 @@
+{
+ "accent": "#8B2F2F",
+ "symbol": "DUE",
+ "variants": [
+  {
+   "file": "og-en.png",
+   "title": "What your IRS balance costs\nand how it can be settled",
+   "subtitle": "Penalties · daily interest · payment plans · offer in compromise",
+   "badge": "Collection Financial Standards effective June 29, 2026",
+   "brand": "Tax Debt Calc"
+  }
+ ]
+}

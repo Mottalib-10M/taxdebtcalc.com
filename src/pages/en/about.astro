@@ -1,0 +1,32 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME, AUTHOR_DESC, CONTACT_EMAIL } from '../../data/site-config';
+import { src } from '../../lib/helpers';
+import { KIT as K } from '../../lib/kit';
+import { profilePageSchema, breadcrumbSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('about', lang);
+const P = K.P;
+const title = 'Tax Debt Calc 2026: who publishes these IRS debt calculators';
+const description = 'Tax Debt Calc is published by Radif Partners: 2026 IRS penalties, interest, payment plans and offers computed from irs.gov rules. No form, no firm, nothing sold.';
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[profilePageSchema({ path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path }])]} breadcrumbs={[{ label: 'About' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>About Tax Debt Calc</h1>
+    <p>{AUTHOR_DESC.en}</p>
+    <h2>The gap this site fills</h2>
+    <p>Search for an IRS payment plan or for tax debt relief and most results are articles without a single calculation, or pages built to collect a name and a phone number for a resolution firm, with "free consultation" buttons above any figure. The penalty and interest calculators that rank are run by firms with a call-now banner on top, and the offer in compromise calculators ask you to type your own allowable expenses, as if the IRS had not published them for every county. One blog still gives 120 days for a short-term plan, when the IRS says {P.plans.shortTermDays}; another ranks with thresholds from 2012.</p>
+    <p>This site does better than the first Google result because it computes at once, with no name or phone number, what the debt costs day by day (the penalties of IRC section 6651 and interest at the published quarterly rates), the monthly payment and total cost of a payment plan with the fees in force, and the minimum offer in compromise worked out with the Collection Financial Standards of the county in force since {K.day(K.S.effective)}, where the IRS spreads these rules over a dozen pages with no calculation and firms keep them for the "free consultation" call.</p>
+    <h2>Who publishes it</h2>
+    <p>The site is published by {AUTHOR_NAME}, a company that builds calculators on public rules. It is not a tax resolution firm, a law firm, an enrolled agent, a lender or a debt settlement company; it is not run by or affiliated with the IRS, the Treasury or any government agency; it receives no commission, collects no lead and has no partner to send you to.</p>
+    <LegalIdentity lang={lang} />
+    <h2>What we rely on</h2>
+    <p>The Internal Revenue Code sections that set each rule (6651 for penalties, 6621 and 6622 for interest, 6159 for installment agreements, 7122 for offers, 6502 for the collection period, 7345 for passports), and the IRS pages, forms and publications that apply them: the penalty pages, the quarterly interest rates, the payment plan and Simple Payment Plan pages, Form 656-B and Form 433-A (OIC), the <Fragment set:html={src('cfs', 'Collection Financial Standards')} /> with the housing table of every state, and Publication 1494. All were read on {K.day(P.meta.retrieved_at)}; each page lists the ones it uses.</p>
+    <h2>What the site leaves out</h2>
+    <p>Your balance is yours to enter: the site does not connect to your IRS account and cannot see payments, refunds or assessments. Business payroll taxes, state tax debts, bankruptcy and the judgment an offer examiner applies to a particular case are not modelled. The <a href={route('method', lang)}>method page</a> lists every rule, formula and simplification; the <a href={route('editorial', lang)}>editorial policy</a> explains corrections.</p>
+    <h2>Contact</h2>
+    <p><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>, for corrections and sources. We answer questions about a rule, not about your own account.</p>
+  </article>
+</PageLayout>

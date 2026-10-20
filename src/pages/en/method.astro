@@ -1,0 +1,85 @@
+---
+/** Method: every rule, every formula, the tests, the limits. Figures from the kit. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { src, table } from '../../lib/helpers';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('method', lang);
+const P = K.P, S = K.S, F = P.plans.fees, O = P.oic;
+const title = 'Tax Debt Method 2026: IRS Penalties, Interest and Standards';
+const description = 'How the 2026 tax debt calculators work: IRC 6651 penalties, daily interest at quarterly rates, plan fees, Form 433-A (OIC), county standards and the tests.';
+const nat = S.national.total.map((x, i) => `${K.usd(x)} for ${i + 1} ${i ? 'persons' : 'person'}`).join(', ');
+const mins = P.ftf.minimum.slice().reverse().slice(0, 4).map((m) => `${K.usd(m.amount)} for returns due from ${m.dueFrom.slice(0, 4)}`).join(', ');
+const q = Object.keys(P.interest.rates).sort();
+const t20 = K.projectDebt({ tax: 20000, due: '2026-04-15', filed: '2026-07-15', until: '2026-07-15' });
+const dq2 = 1 + 0.06 / 365;
+const dq3 = 1 + 0.07 / 365;
+const hand = 10000 * dq2 ** 77 * dq3 ** 14 - 10000;
+const engInt = Math.round(K.interestOn(10000, '2026-04-15', '2026-07-15') * 100) / 100;
+const handInt = Math.round(hand * 100) / 100;
+const pass26 = (P.passport as Record<string, number>)['2026'];
+const tests = [
+  ['$20,000 unpaid, return and payment 3 months late: late filing', K.usd(t20.ftf), `${K.pct(P.ftf.monthly - P.ftp.monthly)} × 3 months, IRS penalty page method`],
+  ['Same case: late payment', K.usd(t20.ftp), `${K.pct(P.ftp.monthly)} × 3 months`],
+  ['$1,000 unpaid, 2025 return 91 days late: minimum', K.usd(K.projectDebt({ tax: 1000, due: '2026-04-15', filed: '2026-07-15', until: '2026-07-15' }).ftf), `IRS: ${K.usd(K.ftfMinimum('2026-04-15'))} for returns due after 2025`],
+  ['$10,000 from April 15 to July 15, 2026: interest', K.usd2(engInt), `77 days at ${K.rate('2026-Q2')} then 14 days at ${K.rate('2026-Q3')}, by hand: ${K.usd2(handInt)}`],
+  ['Wage levy, single, weekly, 3 dependents', K.usd2(K.exemptAmount('single', 'weekly', 3)), 'Publication 1494 example: $615.38'],
+  ['Wage levy, married filing jointly, biweekly, 2 dependents', K.usd2(K.exemptAmount('mfj', 'biweekly', 2)), 'Publication 1494 example: $1,646.16'],
+  ['Housing standard, Autauga County, Alabama, 1 person', K.usd(K.housingStandard('Alabama', 'Autauga County', 1) ?? 0), 'IRS Alabama table: $1,593'],
+  ['Operating cost, Chicago area, 1 car', K.usd(K.operatingStandard('Illinois', 'Cook County', 1)), 'IRS transportation table: $334'],
+];
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'How we calculate', description, path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'How we calculate', path }])]} breadcrumbs={[{ label: 'How we calculate' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>How the calculators work</h1>
+    <p>Every calculator on this site runs in your browser on one engine and one parameter file. A script reads the IRS pages, forms and tables and writes that file with each rate, fee, threshold and standard, the page it comes from and the date it was read ({K.day(P.meta.retrieved_at)} for this edition). This page lists the rules, the formulas, the tests and what is left out. The results are estimates: the IRS decides, on the figures of your account.</p>
+
+    <h2>1. Late filing and late payment penalties</h2>
+    <p>Both come from <Fragment set:html={src('irc6651', 'IRC section 6651')} />, as the IRS explains them on its <Fragment set:html={src('ftf', 'failure to file')} /> and <Fragment set:html={src('ftp', 'failure to pay')} /> pages.</p>
+    <ul>
+      <li>Late filing: {K.pct(P.ftf.monthly)} of the tax unpaid on the due date, for each month or part of a month the return is late, at most five months ({K.pct(P.ftf.max)}). The due date is the original one, or six months later with a valid extension. In a month when the late payment penalty also applies, the late filing penalty is reduced by it.</li>
+      <li>Minimum: for a return more than {P.ftf.minimumAfterDays} days late, the penalty is at least the smaller of the tax due and a fixed amount set by the year the return was due: {mins}.</li>
+      <li>Late payment: {K.pct(P.ftp.monthly)} of the unpaid tax each month or part of a month from the original due date (an extension to file does not extend the time to pay); {K.pct(P.ftp.withPlan)} while an approved payment plan runs for an individual who filed on time; {K.pct(P.ftp.afterLevyNotice)} from 10 days after a notice of intent to levy. The total stops at {K.pct(P.ftp.max)} of the tax.</li>
+    </ul>
+    <p>The calculators count months from the due date to the same day of each following month, as the penalty pages do: one day after a month counts as a new month.</p>
+
+    <h2>2. Interest</h2>
+    <p>Interest on underpayments is the federal short-term rate plus 3 points (<Fragment set:html={src('irc6621', 'IRC 6621')} />), set each quarter and published by the IRS on its <Fragment set:html={src('rates', 'quarterly interest rates page')} />, and compounded daily (<Fragment set:html={src('irc6622', 'IRC 6622')} />). The engine adds each day the balance times the rate of that day's quarter divided by 365 (366 in a leap year). It holds the {q.length} quarters from {K.quarter(q[0])} to {K.quarter(q[q.length - 1])}. Days after the last published quarter keep its rate, and the result says so; the next rate is {P.interest.nextQuarter.expected}.</p>
+    <p>Interest runs on the tax and on the penalties. The engine charges interest on the late filing penalty from the due date and on each month's late payment penalty from the month it is added. The IRS charges interest on the late payment penalty from the date of the notice and demand; the difference is small on most balances and goes in the direction of a slightly higher estimate.</p>
+
+    <h2>3. Payment plans</h2>
+    <p>Fees, thresholds and terms come from the <Fragment set:html={src('plans', 'payment plan page')} /> and the <Fragment set:html={src('simple', 'Simple Payment Plan page')} />: short-term plan up to {P.plans.shortTermDays} days for balances under {K.usd(P.plans.shortTermMax)}, no fee; Simple Payment Plan for balances up to {K.usd(P.plans.simpleMax)}; set-up fees {K.usd(F.ddiaOnline)}, {K.usd(F.ddiaOther)}, {K.usd(F.otherOnline)} and {K.usd(F.otherOther)}, {K.usd(F.otherLowIncome)} or waived for low income. The plan calculator runs the plan month by month: daily interest on the whole balance, the monthly late payment penalty on the unpaid tax, then the payment applied to tax, then penalties, then interest. The monthly payment shown is the smallest whole dollar that clears the balance in the term chosen, found by bisection.</p>
+
+    <h2>4. Allowable living expenses</h2>
+    <p>The <Fragment set:html={src('cfs', 'Collection Financial Standards')} /> in force since {K.day(S.effective)}:</p>
+    <ul>
+      <li>National standards for food, housekeeping supplies, apparel, personal care and miscellaneous: {nat}, plus {K.usd(S.national.additionalPerson)} for each additional person. Allowed in full.</li>
+      <li>Out-of-pocket health care: {K.usd(S.health.under65)} a person under 65 and {K.usd(S.health.age65plus)} at 65 or over. Allowed in full.</li>
+      <li>Housing and utilities: the county figure for the household size (1 to 5 or more) from the IRS table of each state, 3,223 counties in all. The lesser of the amount paid and the standard is allowed.</li>
+      <li>Transportation: ownership up to {K.usd(S.transport.ownership[0])} a car (two cars at most), operating costs by Census region or by metropolitan area, public transportation {K.usd(S.transport.public)}. The lesser of the amount paid and the standard is allowed.</li>
+      <li>Health insurance, current taxes, child care and court-ordered payments: the amounts you enter.</li>
+    </ul>
+
+    <h2>5. Offer in compromise</h2>
+    <p>The reasonable collection potential follows <Fragment set:html={src('f656b', 'Form 656-B and Form 433-A (OIC)')} />, Rev. {O.formRevision}: assets at quick-sale value ({K.pct(O.quickSale)} of market value) minus loans; {K.usd(O.bankAllowance)} kept on bank accounts; {K.usd(O.vehicleAllowance)} off the equity of one car per taxpayer; {K.usd(O.personalEffects)} off furniture and personal effects; plus the remaining monthly income (income minus allowable expenses) times {O.multiplierLumpSum} for a lump-sum offer or times {O.multiplierPeriodic} for a periodic offer. Application fee {K.usd(O.fee)} and {K.pct(O.lumpSumDeposit)} of a lump-sum offer, both waived under the Low-Income Certification. The official check remains the IRS <Fragment set:html={src('prequal', 'Offer in Compromise Pre-Qualifier')} />.</p>
+
+    <h2>6. Levy, relief, notices</h2>
+    <p>Wage levy: the exempt amount of <Fragment set:html={src('p1494', 'Publication 1494')} /> for 2026, the standard deduction of the filing status plus {K.usd(P.levy.perDependent)} per dependent, divided by the number of pay periods, each part rounded to the cent as the publication's tables do. Penalty relief: First Time Abate and the Automatic Exemption from Penalty on the <Fragment set:html={src('fta', 'IRS penalty relief page')} />. CP2000: accuracy penalty of {K.pct(P.cp2000.accuracyPenalty)} when the understatement exceeds the greater of {K.pct(P.cp2000.understatementShare)} of the correct tax and {K.usd(P.cp2000.understatementFloor)} (<Fragment set:html={src('irc6662', 'IRC 6662')} />). Passport: the yearly threshold of <Fragment set:html={src('irc7345', 'IRC 7345')} />, {K.usd(pass26)} for 2026.</p>
+
+    <h2>7. Tests</h2>
+    <p>The official examples and hand computations are automated tests; if one fails, the site does not build.</p>
+    <Fragment set:html={table(['Case', 'Engine', 'Reference'], tests, 'Automated tests, tests/engine.test.ts.', ['l', 'r', 'l'])} />
+
+    <h2>8. What is not modelled</h2>
+    <ul>
+      <li>Payments made after the due date but before today, and refunds applied to the balance: enter the balance that remains.</li>
+      <li>The estimated tax penalty, the accuracy penalty outside the CP2000 calculator, fraud penalties and business payroll tax penalties.</li>
+      <li>State income tax debts, which follow each state's own rules.</li>
+      <li>How the IRS values a particular asset, business income or future income that differs from the past; dissipated assets; the special circumstances an offer examiner can weigh.</li>
+      <li>Bankruptcy and the collection statute suspensions beyond the general rules described on the pages.</li>
+    </ul>
+    <p>Corrections: <a href={route('contact', lang)}>contact page</a>. These are estimates made to compare options, not tax advice; the IRS decides on every plan, offer and penalty.</p>
+  </article>
+</PageLayout>

@@ -1,0 +1,75 @@
+---
+/**
+ * Home, in its own order: the balance calculator first, the folded answer, the ledger of four ways to clear the
+ * same balance, the notice ladder (CP14 to levy), the last eight quarterly rates, why the notice amount is not
+ * the payoff, the page index by stage, long text in accordions, FAQ. Text: src/content/home.ts.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import { HOME } from '../content/home';
+import { route } from '../i18n/routes';
+import { GROUPS } from '../i18n/nav';
+import { helpers, SOURCES } from '../lib/helpers';
+import { GUIDES } from '../lib/pages';
+import { KIT as K } from '../lib/kit';
+import { faqSchema, organizationSchema, websiteSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+const lang = 'en';
+const x = HOME;
+const path = route('home', lang);
+const h = helpers();
+const sources = x.sources.map((k) => ({ name: SOURCES[k].label, url: SOURCES[k].url }));
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webPageSchema({ name: x.h1, description: x.description, path, lang }), webApplicationSchema({ name: x.h1, description: x.description, path, lang }), faqSchema(x.faqs, lang)];
+---
+<PageLayout title={x.title} description={x.description} lang={lang} jsonLd={jsonLd} faqs={x.faqs} sources={sources}>
+  <header class="mb-5 border-l-4 border-accent-600 pl-4">
+    <h1 class="font-serif text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{x.h1}</h1>
+    <p class="mt-2 max-w-3xl text-base text-navy-700 sm:text-lg">{x.intro}</p>
+    <p class="mt-2 text-sm text-navy-600">Rates, fees and standards read on irs.gov on {K.day(x.asOf)} · <a href={route('method', lang)} class="underline">How the figures are computed</a> · <a href={route('about', lang)} class="underline">Who publishes this</a> · not tax advice, the IRS decides</p>
+  </header>
+  <div data-outil data-chrome><Tool kind="debt" idPrefix="home" /></div>
+  <Clamp text={x.resume} lang={lang} id="clamp-home" class="my-8" />
+  <section class="my-8" data-chrome>
+    <h2 class="font-serif text-2xl font-bold text-navy-900">Four ways to clear {K.usd(x.bal)} of tax, and what each adds</h2>
+    <div class="mt-3 overflow-x-auto">
+      <table class="w-full border-collapse text-sm">
+        <thead><tr class="border-b-2 border-navy-300 text-left"><th class="py-2 pr-3">Route</th><th class="py-2 pr-3 text-right">Payment</th><th class="py-2 pr-3 text-right">Interest, penalty and fee</th><th class="py-2">Conditions</th></tr></thead>
+        <tbody>{x.routes().map((r) => <tr class="border-b border-navy-100"><td class="py-2 pr-3 font-medium">{r[0]}</td><td class="py-2 pr-3 text-right tabular-nums">{r[1]}</td><td class="py-2 pr-3 text-right font-semibold tabular-nums">{r[2]}</td><td class="py-2 text-navy-700">{r[3]}</td></tr>)}</tbody>
+      </table>
+    </div>
+    <p class="mt-2 text-xs text-navy-600">Balance that is all tax, return filed on time, plan starting {K.day(x.asOf)}, interest at the current rate kept for future quarters. When no monthly payment is affordable, the <a href={route('offer-in-compromise', lang)} class="underline">offer</a> and <a href={route('currently-not-collectible', lang)} class="underline">hardship</a> pages take over.</p>
+  </section>
+  <div class="my-8 grid gap-8 md:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
+    <section data-chrome>
+      <h2 class="font-serif text-2xl font-bold text-navy-900">From the first bill to a levy</h2>
+      <ol class="mt-3 space-y-3 border-l-2 border-navy-200 pl-4 text-sm">
+        {x.notices.map(([k, v]) => <li><p class="font-semibold text-navy-900">{k}</p><p class="text-navy-700">{v}</p></li>)}
+      </ol>
+    </section>
+    <section data-chrome>
+      <h2 class="font-serif text-2xl font-bold text-navy-900">Interest rate by quarter</h2>
+      <table class="mt-3 w-full border-collapse text-sm">
+        <tbody>{x.rates().map((r) => <tr class="border-b border-navy-100"><td class="py-1.5 pr-3">{r[0]}</td><td class="py-1.5 text-right font-semibold tabular-nums">{r[1]}</td></tr>)}</tbody>
+      </table>
+      <p class="mt-2 text-xs text-navy-600">Underpayment rate for individuals, IRC 6621, compounded daily. Next rate: {K.P.interest.nextQuarter.expected}.</p>
+    </section>
+  </div>
+  <section class="prose prose-slate max-w-none prose-headings:font-serif"><Fragment set:html={x.why(h)} /></section>
+  <section class="mt-10" data-chrome>
+    <h2 class="font-serif text-2xl font-bold text-navy-900">Every stage of a tax debt, one page each</h2>
+    <div class="mt-4 grid gap-6 md:grid-cols-2">
+      {GROUPS.map((g) => (
+        <div>
+          <h3 class="border-b border-navy-200 pb-1 text-sm font-semibold uppercase tracking-wide text-navy-700">{g.label}</h3>
+          <ul class="mt-2 divide-y divide-navy-100 text-sm">
+            {GUIDES.filter((p) => p.group === g.id).map((p) => <li class="py-1.5"><a href={route(p.id, lang)} class="font-medium text-accent-700 underline-offset-2 hover:underline">{p.nav}</a> <span class="text-navy-600">· {p.card}</span></li>)}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+  <section class="mt-10">
+    <h2 class="font-serif text-2xl font-bold text-navy-900">Rules behind the numbers</h2>
+    {x.sections(h).map((s) => <details class="fold"><summary><h3 class="fold-h">{s.title}</h3></summary><div class="prose prose-slate max-w-none pb-4"><Fragment set:html={s.html} /></div></details>)}
+  </section>
+</PageLayout>

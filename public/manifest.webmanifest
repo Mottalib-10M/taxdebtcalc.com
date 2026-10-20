@@ -1,0 +1,21 @@
+{
+ "name": "Tax Debt Calc",
+ "short_name": "Tax Debt Calc",
+ "description": "What a federal tax debt costs day by day and how it can be settled: penalties, quarterly interest, payment plans and the offer in compromise, with no sign-up.",
+ "start_url": "/en/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#8B2F2F",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

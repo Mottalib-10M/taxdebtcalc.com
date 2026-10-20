@@ -1,0 +1,21 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+const lang = 'en';
+---
+<PageLayout title="Editorial policy of Tax Debt Calc: IRS sources, dated figures, fixes" description="How Tax Debt Calc writes its tax debt pages: the Internal Revenue Code, irs.gov pages, forms and publications only, every amount read from one dated parameter file." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Editorial policy</h1>
+    <h2>What counts as a source</h2>
+    <p>The Internal Revenue Code sections that set each penalty, the interest rate and each collection tool; the IRS pages that apply them (penalties, interest, payment plans, offers, collection notices); the forms and publications that carry the figures, such as Form 433-A (OIC), Form 656-B, Publication 1494; and the Collection Financial Standards tables. Tax resolution firm pages, lender pages and other calculators are read to know what people ask and where they go wrong, never as the source of a figure.</p>
+    <h2>How a figure reaches a page</h2>
+    <p>No amount is typed into the text. A script reads the IRS pages and writes one parameter file with every rate, fee, threshold and standard, its source and the date it was read; the calculators and the pages read that file. The examples the IRS prints, such as the exempt amounts of Publication 1494 or the penalty arithmetic of its penalty pages, are automated tests: if a figure is mistyped, the site does not build.</p>
+    <h2>Uncertain points</h2>
+    <p>When an official text is silent or a figure is not yet published, the page says so instead of guessing. Examples in this edition: the interest rate for the first quarter of 2027, announced by the IRS in November 2026, is not known, so the calculators keep the last published rate for future days and say so; and the IRS publishes no formula for how it applies payments between tax, penalty and interest in every case, so the calculators apply payments to tax first and the method page says it.</p>
+    <h2>Independence</h2>
+    <p>{AUTHOR_NAME} receives nothing from tax resolution firms, tax attorneys, lenders, debt settlement companies or preparers, and links to none of them. There is no form and no lead is collected. There is no advertising today; if some is added it will be labeled, limited to three places a page, and never come from a firm selling tax relief.</p>
+    <h2>Review and corrections</h2>
+    <p>The site is reviewed at least every {REVIEW_CYCLE_MONTHS} months, every quarter when the IRS announces the next interest rate, and whenever the IRS publishes new standards, fees or penalty amounts. A reported error is checked against the source and, once fixed, moves the date shown on the page. Write through the <a href={route('contact', lang)}>contact page</a>; the calculations are explained on the <a href={route('method', lang)}>method page</a>.</p>
+  </div>
+</PageLayout>

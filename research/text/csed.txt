@@ -1,0 +1,84 @@
+
+The IRS generally has 10 years – from the date your tax was assessed – to collect the tax and any associated penalties and interest from you. This time period is called the Collection Statute Expiration Date (CSED).
+Your account can include multiple tax assessments, each with their own CSED. Examples may include:
+Original tax amounts you owe when you file your federal tax return
+Additional taxes you owe when you amend your return
+Substitute for return tax balances
+Additional tax we find that you owe due to an audit
+Civil penalty amounts
+Certain penalties and interest
+A variety of laws affect the CSED. More than one action or situation can change the collection period. See Examples of situations that add to the 10-year expiration date .
+How to know a CSED applies to you
+When we assess tax owed on your account, we mail you a notice or letter. The notice or letter will tell you about the taxes, any penalties and interest, the reason for the charge and next steps.
+For more information, see Understanding your notice or letter .
+How to find a CSED
+You can find a CSED in your account transcript.
+Get your transcript online or by mail in one of these ways:
+Sign in or create your Online Account .
+Complete Form 4506-T, Request for Transcript of Tax Return . Effective July 1, 2019, third-party requestors can't request account transcripts on this form.
+Call our automated phone number at 800-908-9946 .
+On your account transcript:
+Look under the Transactions section of your transcript. See Sample IRS account transcript: Transactions section .
+Find the 3-digit IRS transaction code with a date below it. Generally, this date is the CSED plus any time we added by law. Many events may impact a CSED. You may contact us to verify the last day we can collect a tax debt for a specific tax period.
+To get your CSED or if you have questions about its accuracy as shown on your transcript, you may also contact us at:
+800-829-1040 (individuals)
+800-829-4933 (businesses)
+The phone number on the most recent notice you may have received
+If you disagree with one or more CSEDs shown on your account transcript or what we indicated to you, contact us so we can explain how we computed it.
+If you don't think we've computed your CSED correctly, request help from the Taxpayer Advocate Service (TAS). Submit a completed Form 911, Request for Taxpayer Advocate Service Assistance PDF .
+Sample IRS account transcript: Transactions section
+Note: This transcript is fictional. It complies with the law which requires us to keep taxpayers' returns and return information confidential (IRC 6103).
+Time to collect can be suspended or extended
+Suspending and extending the collection period both delay the CSED.
+Certain events can suspend or extend the 10-year CSED. When we're prohibited by law from collecting tax, the CSED collection period is generally suspended , which means the time we can collect tax pauses.
+In contrast, when we're permitted by law to add time to the 10 years to collect, the CSED is extended, which means we can continue to collect tax.
+Examples of situations that add to the 10-year expiration date
+Some situations can suspend or extend the CSED.
+Request an installment agreement
+While we review your request, it suspends the CSED.
+If you later withdraw or we reject the installment agreement or propose terminating it, by law, it extends the CSED for 30 days.
+If you appeal the decision, the CSED is suspended throughout the appeal process.
+File bankruptcy
+From the date you petition, until the court discharges, dismisses or closes the bankruptcy, it suspends the CSED.
+It extends the CSED another 6 months when the bankruptcy concludes.
+File an offer in compromise (OIC)
+While we review your OIC application, it suspends the CSED.
+If we reject it, this suspends your CSED another 30 days.
+If you appeal the rejection, it suspends the CSED until the appeal concludes.
+Request a collection due process hearing
+When we receive your request until you either withdraw it or we make a final determination, which includes the time you appeal, it suspends the CSED.
+If you receive a final determination and your CSED is less than 90 days, then by law, it extends the CSED to 90 days after our final determination.
+File a request for innocent spouse relief
+It suspends the CSED until you either: 1) file a waiver. See Tax relief for spouses or 2) your 90-day period expires to petition the Tax Court, whichever is earlier.
+If you petition the Tax Court, it suspends the CSED until the Court makes a final decision.
+In either case, it extends the CSED another 60 days.
+Your request doesn't extend the CSED for your spouse.
+In a combat zone
+When you enter a combat zone to when you leave, plus 180 days. See Extension of deadlines — Combat zone service, Q12 , it suspends the CSED.
+In the military in certain types of service
+For the period of military service, plus 270 days from when the military notifies us, the CSED is suspended. See Servicemembers Civil Relief Act of 2003 (SCRA) . See 50 U.S.C.A Section 4000 (formerly cited as 50 App. USCA 573, on the Soldiers' and Sailors' Civil Relief Act of 1940.)
+Live outside the United States
+If you live outside the U.S. continuously for 6 months or more, generally it suspends the CSED for this time.
+The CSED may be extended by at least 6 months when you return to the United States.
+Substitute for return
+If you don't file an income tax return or fraudulently file one, we can file one for you called a Substitute for Return and assess tax. If you don't respond when we notify you of tax due or it's upheld in Tax Court, we assess the tax. When we assess the tax, the 10-year collection period starts (plus any additions of time as noted in the Additions to the 10-Year Expiration Date section) in which we can collect the tax.
+If you later file a return and we accept it, and your return shows:
+Less tax due than what's on the Substitute for Return, we may reduce or reverse your tax due, but the CSED stays the same.
+More tax due than what's on the Substitute for Return, we'll assess you for the increased tax due. The original CSED stays the same, however, a new CSED is set up for the additional tax due.
+Levy
+We generally don't levy (seize your property) during the suspended CSED, but there are some exceptions. If we levy your future income before the CSED expires, we can continue to receive payments from that levy.
+If you paid a tax debt after the CSED expired, you may request a refund of any amount you overpaid after the CSED but before the Refund Statute Expiration Date. We may also notify you by letter of any payments you made beyond the collection period.
+Statutes expiration dates
+The CSED is 1 of 3 statutes of limitations. The others are the time IRS can assess tax and the time you can claim a credit or refund .
+A statute of limitation is the time period established by law during when IRS can review, analyze, and resolve your tax-related issues. When the statutory period expires, we can no longer assess or collect additional tax, or allow you to claim a refund.
+Laws and regulations
+IRC 6015
+IRC 6020(b)
+IRC 6330
+IRC 6502(a)(1)
+IRC 6503
+IRC 6503(h)(2)
+IRC 6331(i)(5)
+IRC 6331(k)
+IRC 7508
+Treas. Regs. 1.6015-7(c)(2)-(3)
