@@ -390,6 +390,9 @@ export const SPECS: Record<string, (arg?: Record<string, number | string>) => To
 export function getTool(kind: string, arg?: Record<string, number | string>): ToolSpec {
   const f = SPECS[kind];
   if (!f) throw new Error(`Unknown calculator: ${kind}`);
-  return f(arg);
+  const spec = f(arg);
+  // Every field takes the page's preset when one is given (toolArg, mini `d`), not only those that read `arg`.
+  if (arg) spec.inputs = spec.inputs.map((i) => (i.id in arg ? ({ ...i, def: (i.kind === 'choice' || i.kind === 'select' ? String(arg[i.id]) : Number(arg[i.id])) } as Input) : i));
+  return spec;
 }
 export const TOOL_KINDS = Object.keys(SPECS);

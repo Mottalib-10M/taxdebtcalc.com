@@ -1,1 +1,11 @@
-{}
+{
+  "reasonable": ["https://www.irs.gov/payments/penalty-relief-for-reasonable-cause", "IRS, Penalty relief for reasonable cause"],
+  "penaltyrelief": ["https://www.irs.gov/payments/penalty-relief", "IRS, Penalty relief: types and how to request it"],
+  "intabate": ["https://www.irs.gov/payments/interest-abatement", "IRS, Interest abatement for unreasonable error or delay (IRC 6404(e))"],
+  "f843": ["https://www.irs.gov/forms-pubs/about-form-843", "IRS, About Form 843, Claim for Refund and Request for Abatement"],
+  "cp523": ["https://www.irs.gov/individuals/understanding-your-cp523-notice", "IRS, Understanding your CP523 notice (intent to terminate an installment agreement)"],
+  "extension": ["https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return", "IRS, Get an extension to file your tax return"],
+  "pastdue": ["https://www.irs.gov/businesses/small-businesses-self-employed/filing-past-due-tax-returns", "IRS, Filing past due tax returns"],
+  "i9465": ["https://www.irs.gov/pub/irs-pdf/i9465.pdf", "IRS, Instructions for Form 9465, Installment Agreement Request (Rev. July 2024, PDF)"],
+  "f433f": ["https://www.irs.gov/pub/irs-pdf/f433f.pdf", "IRS, Form 433-F, Collection Information Statement (Rev. 7-2024, PDF)"]
+}

@@ -708,6 +708,76 @@
     "en": "Taxpayer Advocate Service (independent office within the IRS)"
    },
    "retrieved_at": "2026-10-20"
+  },
+  "reasonable": {
+   "url": "https://www.irs.gov/payments/penalty-relief-for-reasonable-cause",
+   "label": {
+    "en": "IRS, Penalty relief for reasonable cause"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "penaltyrelief": {
+   "url": "https://www.irs.gov/payments/penalty-relief",
+   "label": {
+    "en": "IRS, Penalty relief: types and how to request it"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "intabate": {
+   "url": "https://www.irs.gov/payments/interest-abatement",
+   "label": {
+    "en": "IRS, Interest abatement for unreasonable error or delay (IRC 6404(e))"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "f843": {
+   "url": "https://www.irs.gov/forms-pubs/about-form-843",
+   "label": {
+    "en": "IRS, About Form 843, Claim for Refund and Request for Abatement"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "cp523": {
+   "url": "https://www.irs.gov/individuals/understanding-your-cp523-notice",
+   "label": {
+    "en": "IRS, Understanding your CP523 notice (intent to terminate an installment agreement)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "extension": {
+   "url": "https://www.irs.gov/filing/get-an-extension-to-file-your-tax-return",
+   "label": {
+    "en": "IRS, Get an extension to file your tax return"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "pastdue": {
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/filing-past-due-tax-returns",
+   "label": {
+    "en": "IRS, Filing past due tax returns"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "i9465": {
+   "url": "https://www.irs.gov/pub/irs-pdf/i9465.pdf",
+   "label": {
+    "en": "IRS, Instructions for Form 9465, Installment Agreement Request (Rev. July 2024, PDF)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "f433f": {
+   "url": "https://www.irs.gov/pub/irs-pdf/f433f.pdf",
+   "label": {
+    "en": "IRS, Form 433-F, Collection Information Statement (Rev. 7-2024, PDF)"
+   },
+   "retrieved_at": "2026-10-20"
+  },
+  "dirtydozen": {
+   "url": "https://www.irs.gov/newsroom/dirty-dozen-tax-scams-for-2026-irs-reminds-taxpayers-to-watch-out-for-dangerous-threats",
+   "label": {
+    "en": "IRS, Dirty Dozen tax scams for 2026 (IR-2026-30), item 12: aggressive Offer in Compromise marketing"
+   },
+   "retrieved_at": "2026-10-20"
   }
  }
 }

@@ -10,7 +10,7 @@ const lang = 'en';
 const path = route('about', lang);
 const P = K.P;
 const title = 'Tax Debt Calc 2026: who publishes these IRS debt calculators';
-const description = 'Tax Debt Calc is published by Radif Partners: 2026 IRS penalties, interest, payment plans and offers computed from irs.gov rules. No form, no firm, nothing sold.';
+const description = 'Tax Debt Calc is published by Radif Partners: 2026 IRS penalties, interest, payment plans and offers computed from irs.gov rules. No form, no firm, nothing sold';
 ---
 <PageLayout title={title} description={description} lang={lang} jsonLd={[profilePageSchema({ path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path }])]} breadcrumbs={[{ label: 'About' }]}>
   <article class="prose prose-slate max-w-none prose-headings:font-serif">
