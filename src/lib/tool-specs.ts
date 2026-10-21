@@ -140,7 +140,7 @@ export const SPECS: Record<string, (arg?: Record<string, number | string>) => To
       { kind: 'select', id: 'how', label: 'How you pay', def: 'ddia', options: [{ value: 'ddia', label: 'Direct debit' }, { value: 'other', label: 'Card, check or Direct Pay' }] },
       { kind: 'choice', id: 'apply', label: 'Applied', def: 'online', options: [{ value: 'online', label: 'Online' }, { value: 'phone', label: 'Phone or mail' }] },
       { id: 'taxp', label: 'Part of the balance that is tax', def: Number(arg?.taxp ?? 85), unit: '%', max: 100, adv: true, help: 'Late payment penalty is figured on the tax only' },
-      YES_NO('ot', 'Return filed on time', 'yes', true, `If yes, the late payment penalty drops to ${pct(P.ftp.withPlan)} a month`),
+      YES_NO('ot', 'Return filed on time', 'yes', true, `If yes, the late payment penalty drops to ${pct(P.ftp.withPlan)} a month in a long-term plan`),
       YES_NO('li', 'Low income (AGI at or under 250% of the poverty level)', 'no', true),
     ],
     run: (v) => {
@@ -158,7 +158,7 @@ export const SPECS: Record<string, (arg?: Record<string, number | string>) => To
         sub: `${kind}. Ends ${monthYear(r.endDate)}; you pay ${usd(r.totalPaid + fee)} in all for ${usd(bal)} owed today.`,
         rows: [
           ['Interest while the plan runs', usd(r.interest), r.interest],
-          [`Late payment penalty (${pct(base.filedOnTime ? P.ftp.withPlan : P.ftp.monthly, 2)} a month)`, usd(r.ftp), r.ftp],
+          [`Late payment penalty (${pct(base.filedOnTime && !short ? P.ftp.withPlan : P.ftp.monthly, 2)} a month)`, usd(r.ftp), r.ftp],
           ['Set-up fee', usd(fee), fee],
           ['Extra cost over today\'s balance', usd(r.interest + r.ftp + fee)],
         ],

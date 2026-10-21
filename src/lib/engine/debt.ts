@@ -8,7 +8,7 @@
  * - Failure to pay (6651(a)(2)): 0.5% of the unpaid tax per month or part of a month, 25% at most; 0.25% while an
  *   approved payment plan runs if the return was filed on time; 1% from 10 days after a notice of intent to levy.
  * - Interest: underpayment rate of each calendar quarter, compounded daily, on the tax from its due date, on the
- *   late filing penalty from the due date, and (simplification, stated on the site) on each month of late payment
+ *   late filing penalty from the due date of the return (extended date if an extension was filed), and (simplification, stated on the site) on each month of late payment
  *   penalty from the day it accrues; the IRS starts it at the notice date, so the real figure can be a little lower.
  */
 import P from '../../data/params-2026.json';
@@ -99,7 +99,9 @@ export function projectDebt(i: DebtInput): DebtResult {
 
   // Daily simulation of interest, compounded each day at the quarter's rate (rate / days in the year).
   const days = daysBetween(i.due, until);
-  let bearing = tax + ftf; // the late filing penalty bears interest from the due date (IRC 6601(e)(2)(B))
+  // The late filing penalty bears interest from the due date of the return, extensions included (IRC 6601(e)(2)(B)).
+  let bearing = tax;
+  let ftfAdded = false;
   let interest = 0;
   let nextFtp = 0;
   let projectedFrom: string | null = null;
@@ -107,6 +109,7 @@ export function projectDebt(i: DebtInput): DebtResult {
   let mIdx = 1;
   for (let d = 0; d < days; d++) {
     const day = addDays(i.due, d);
+    if (!ftfAdded && day >= fileDue) { bearing += ftf; ftfAdded = true; }
     while (nextFtp < ftpByMonth.length && addMonths(i.due, nextFtp) <= day) { bearing += ftpByMonth[nextFtp]; nextFtp++; }
     if (!projectedFrom && isProjected(day)) projectedFrom = day;
     const y = Number(day.slice(0, 4));

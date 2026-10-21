@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://us-irs-tax-debt.example/sitemap-index.xml
+Sitemap: https://taxdebtcalc.com/sitemap-index.xml

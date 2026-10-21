@@ -1,7 +1,8 @@
 /**
  * A payment plan run month by month: interest compounded daily at the quarter's rate on everything unpaid,
- * the late payment penalty at 0.25% a month on the unpaid tax while the plan runs (return filed on time) or 0.5%
- * (return filed late), never beyond 25% of the tax in total, and payments applied to the tax first, then to
+ * the late payment penalty at 0.25% a month on the unpaid tax while an installment agreement runs (return filed on
+ * time, IRC 6651(h), which names installment agreements under section 6159) or 0.5% (return filed late, or a
+ * schedule of 6 months or less, i.e. the short-term plan of up to 180 days, which is not a 6159 agreement), never beyond 25% of the tax in total, and payments applied to the tax first, then to
  * penalties, then to interest (the order the IRS generally uses, which also keeps the penalty lowest).
  */
 import P from '../../data/params-2026.json';
@@ -28,7 +29,8 @@ export interface PlanResult {
 
 export function runPlan(i: PlanInput): PlanResult {
   let tax = i.tax, pen = i.penalties + (i.fee ?? 0), int = i.interest;
-  const rate = i.filedOnTime ? P.ftp.withPlan : P.ftp.monthly;
+  const installment = (i.maxMonths ?? 600) > 6;
+  const rate = i.filedOnTime && installment ? P.ftp.withPlan : P.ftp.monthly;
   const capLeft = () => Math.max(0, P.ftp.max * i.taxOriginal - i.ftpSoFar - ftpSum);
   let ftpSum = 0, intSum = 0, paidSum = 0, n = 0;
   const rows: PlanResult['rows'] = [];

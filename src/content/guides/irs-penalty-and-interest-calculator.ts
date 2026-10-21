@@ -19,7 +19,7 @@ export default defineGuide({
   slug: 'irs-penalty-and-interest-calculator',
   nav: 'Penalty and interest calculator',
   card: 'Your balance today: tax, both late penalties and daily interest, split line by line',
-  title: 'IRS Penalty and Interest Calculator 2026: Balance Today',
+  title: 'IRS Penalty and Interest Calculator 2026: Late Payment Cost',
   description: `IRS penalty and interest calculator 2026: late filing and late payment penalties of section 6651 plus interest at ${K.pct(P.interest.currentRate)}, compounded daily, to any payoff date.`,
   h1: 'IRS penalties and interest: what an unpaid tax becomes',
   intro: 'Enter the tax left unpaid, the year it belongs to and when the return went in. The result splits today\'s balance into tax, late filing penalty, late payment penalty and interest, then follows it month by month to the day you pay.',

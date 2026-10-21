@@ -167,3 +167,26 @@ describe('wage levy (Publication 1494, 2026)', () => {
 describe('dates helper sanity', () => {
   it('addDays', () => { expect(addDays('2026-12-31', 1)).toBe('2027-01-01'); });
 });
+
+describe('late filing penalty interest with an extension (IRC 6601(e)(2)(B))', () => {
+  it('starts at the extended due date, not the original one', () => {
+    // Filed 2026-12-20 under an extension to 2026-10-15: 3 months or part late, 4.5% x 3 = 1,350 on $10,000.
+    const ext = projectDebt({ tax: 10000, due: '2026-04-15', filed: '2026-12-20', extension: true, until: '2026-12-20' });
+    const noFtf = interestOn(10000, '2026-04-15', '2026-12-20');
+    expect(ext.ftf).toBeCloseTo(1350, 6);
+    // Interest on the penalty runs only from 2026-10-15: well under what 249 days would give.
+    const onPenalty = ext.interest - noFtf;
+    expect(onPenalty).toBeLessThan(1350 * 0.07 * 70 / 365 + 40);
+  });
+});
+
+describe('short-term plan is not an installment agreement (IRC 6651(h))', () => {
+  it('keeps 0.5% a month for a schedule of 6 months or less, 0.25% beyond', () => {
+    const base = { tax: 20000, penalties: 0, interest: 0, ftpSoFar: 0, taxOriginal: 20000, start: '2026-10-20', filedOnTime: true };
+    const st = runPlan({ ...base, monthly: 3500, maxMonths: 6 });
+    // First month: 0.5% of $20,000 = $100.
+    expect(st.rows[0].ftp).toBeCloseTo(100, 6);
+    const lt = runPlan({ ...base, monthly: 700, maxMonths: 36 });
+    expect(lt.rows[0].ftp).toBeCloseTo(50, 6);
+  });
+});
